@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-03-11T01:39:35.659899",
-  "duration_seconds": 606.46,
-  "validation_seconds": 600.24,
+  "update_time": "2026-03-12T01:39:38.399672",
+  "duration_seconds": 619.18,
+  "validation_seconds": 612.37,
   "sources_attempted": 6,
   "sources_successful": 5,
   "total_channels": 2795,
   "quality_channels": 2794,
-  "valid_channels": 765,
-  "validity_ratio": 0.27380100214745884,
+  "valid_channels": 756,
+  "validity_ratio": 0.2705798138869005,
   "categories": {
-    "cctv": 49,
-    "satellite": 146,
-    "local": 156,
+    "cctv": 48,
+    "satellite": 142,
+    "local": 152,
     "international": 0,
     "other": 414
   }
