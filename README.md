@@ -1,6 +1,6 @@
 ## 📡 直播源地址
 
-最后更新: 2026-04-27 02:31:34
+最后更新: 2026-04-28 02:38:25
 
 ### ✅ 已验证列表
 - **完整列表**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/full_validated.m3u)
@@ -14,9 +14,9 @@
 - **国际**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/international.m3u) (0个)
 
 ### 📊 统计信息
-- 总频道: 1810 个
-- 验证耗时: 421.86 秒
-- 更新时间: 2026-04-27T02:31:34.378459
+- 总频道: 1812 个
+- 验证耗时: 415.41 秒
+- 更新时间: 2026-04-28T02:38:25.493225
 
 ---
 
