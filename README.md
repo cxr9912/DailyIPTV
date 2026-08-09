@@ -1,22 +1,22 @@
 ## 📡 直播源地址
 
-最后更新: 2026-08-08 01:19:28
+最后更新: 2026-08-09 01:24:38
 
 ### ✅ 已验证列表
 - **完整列表**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 657 个
-- 有效性: 40.0%
+- 有效频道: 653 个
+- 有效性: 39.5%
 
 ### 📺 分类频道
-- **央视**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/cctv.m3u) (58个)
-- **卫视**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/satellite.m3u) (149个)
-- **地方台**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/local.m3u) (136个)
+- **央视**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/cctv.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/cctv.m3u) (54个)
+- **卫视**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/satellite.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/satellite.m3u) (143个)
+- **地方台**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/local.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/local.m3u) (141个)
 - **国际**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/international.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/international.m3u) (0个)
 
 ### 📊 统计信息
-- 总频道: 1644 个
-- 验证耗时: 452.85 秒
-- 更新时间: 2026-08-08T01:19:28.658656
+- 总频道: 1655 个
+- 验证耗时: 472.97 秒
+- 更新时间: 2026-08-09T01:24:38.450830
 
 ---
 
