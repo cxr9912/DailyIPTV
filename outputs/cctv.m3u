@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTENC: UTF-8
-# Generated: 2026-08-23 01:06:49 UTC
-# Updated: 2026-08-23 01:06:49
+# Generated: 2026-08-24 01:04:47 UTC
+# Updated: 2026-08-24 01:04:47
 # Title: cctv频道
-# Total Channels: 2
+# Total Channels: 1
 # For personal testing only.
 
-#EXTINF:-1 tvg-name="CCTV老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV老故事.png" group-title="咪咕央视",CCTV老故事
-http://t.061899.xyz/tl/tl.php?id=lgs
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="数字频道",CCTV-6电影
 http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
