@@ -1,10 +1,10 @@
 ## 📡 直播源地址
 
-最后更新: 2026-09-09 02:49:05
+最后更新: 2026-09-10 02:51:01
 
 ### ✅ 已验证列表
 - **完整列表**: [https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/full_validated.m3u](https://raw.githubusercontent.com/cxr9912/DailyIPTV/main/outputs/full_validated.m3u)
-- 有效频道: 264 个
+- 有效频道: 265 个
 - 有效性: 20.1%
 
 ### 📺 分类频道
@@ -15,8 +15,8 @@
 
 ### 📊 统计信息
 - 总频道: 1316 个
-- 验证耗时: 386.24 秒
-- 更新时间: 2026-09-09T02:49:05.633745
+- 验证耗时: 372.82 秒
+- 更新时间: 2026-09-10T02:51:01.276974
 
 ---
 
