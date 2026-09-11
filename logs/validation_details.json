@@ -6,20 +6,26 @@
     "message": "连接错误"
   },
   {
+    "channel": "CCTV-5+体育赛事",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-12社会与法",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-7国防军事",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "CCTV-3综艺",
     "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-1综合",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-4中文国际",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?",
     "valid": false,
     "message": "连接错误"
   },
@@ -30,8 +36,56 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-5+体育赛事",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?",
+    "channel": "CCTV-10科教",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-1综合",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-6电影",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-13新闻",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-4中文国际",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-8电视剧",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-15音乐",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-14少儿",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-16奥林匹克",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?",
     "valid": false,
     "message": "连接错误"
   },
@@ -48,50 +102,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-10科教",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-7国防军事",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-12社会与法",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-15音乐",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-13新闻",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-8电视剧",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-6电影",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-14少儿",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?",
+    "channel": "CCTV-17农业农村",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?",
     "valid": false,
     "message": "连接错误"
   },
@@ -102,32 +114,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-17农业农村",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "北京卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "江苏卫视",
     "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "广东卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "湖南卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2",
     "valid": false,
     "message": "连接错误"
   },
@@ -138,32 +126,26 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-16奥林匹克",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "四川卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "黑龙江卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "深圳卫视",
     "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "海南卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "湖南卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "广东卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "北京卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
@@ -174,44 +156,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "吉林卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "黑龙江卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "天津卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "河北卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "山东卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "湖北卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "山西卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "重庆卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "四川卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
@@ -222,8 +174,56 @@
     "message": "连接错误"
   },
   {
-    "channel": "东南卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "河北卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "山西卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "海南卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "湖北卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "山东卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "吉林卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "陕西卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "天津卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "重庆卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
@@ -240,8 +240,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "宁夏卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "青海卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
@@ -252,32 +252,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "青海卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "东南卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "贵州卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "新疆卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "西藏卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "延边卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "宁夏卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
@@ -288,8 +270,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "中国教育1台",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?",
+    "channel": "贵州卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
@@ -300,14 +282,26 @@
     "message": "连接错误"
   },
   {
-    "channel": "康巴卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "新疆卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "陕西卫视",
-    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "channel": "延边卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "中国教育1台",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "康巴卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
     "valid": false,
     "message": "连接错误"
   },
@@ -324,20 +318,26 @@
     "message": "连接错误"
   },
   {
+    "channel": "西藏卫视",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "中国教育2台",
     "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "浙江新闻",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "channel": "浙江国际",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "浙江国际",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "channel": "之江纪录",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -354,14 +354,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "之江纪录",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "channel": "浙江新闻",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "浙江民生",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "channel": "浙江经济",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -372,8 +372,8 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "浙江经济",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "channel": "浙江民生",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -408,20 +408,20 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "蒙语文化",
-    "url": "https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
     "channel": "蒙语卫视",
     "url": "https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880",
     "valid": false,
     "message": "状态码: 403"
   },
   {
-    "channel": "巴彦淖尔新闻",
-    "url": "https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800",
+    "channel": "蒙语文化",
+    "url": "https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "鄂尔多斯新闻",
+    "url": "https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -438,14 +438,8 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "赤峰新闻综合",
-    "url": "https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "鄂尔多斯新闻",
-    "url": "https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800",
+    "channel": "CGTN英语",
+    "url": "https://0472.org/hls/cgtn.m3u8",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -456,8 +450,8 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "CGTN英语",
-    "url": "https://0472.org/hls/cgtn.m3u8",
+    "channel": "CGTN俄语",
+    "url": "https://0472.org/hls/cgtne.m3u8",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -468,8 +462,8 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "CGTN俄语",
-    "url": "https://0472.org/hls/cgtne.m3u8",
+    "channel": "CGTN西语",
+    "url": "https://0472.org/hls/cgtnx.m3u8",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -480,14 +474,14 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "CGTN西语",
-    "url": "https://0472.org/hls/cgtnx.m3u8",
+    "channel": "巴彦淖尔新闻",
+    "url": "https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800",
     "valid": false,
     "message": "状态码: 403"
   },
   {
-    "channel": "乌兰察布新闻",
-    "url": "https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800",
+    "channel": "赤峰新闻综合",
+    "url": "https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -496,6 +490,18 @@
     "url": "http://101.35.240.114:88/live.php?id=浙江卫视4K",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "乌兰察布新闻",
+    "url": "https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "东方卫视4K",
+    "url": "http://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "广东卫视4K",
@@ -508,12 +514,6 @@
     "url": "http://8.138.7.223/tv/btime.php?id=bjws4k",
     "valid": false,
     "message": "状态码: 403"
-  },
-  {
-    "channel": "江苏卫视4K",
-    "url": "http://8.138.7.223/tv/jsws4k.php",
-    "valid": true,
-    "message": "状态码: 200"
   },
   {
     "channel": "山东卫视4K",
@@ -534,14 +534,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "苏州4K",
-    "url": "https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
+    "channel": "江苏卫视4K",
+    "url": "http://8.138.7.223/tv/jsws4k.php",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
-    "channel": "河北4K",
-    "url": "https://event.pull.hebtv.com:443/live/live101.m3u8",
+    "channel": "苏州4K",
+    "url": "https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -552,38 +552,26 @@
     "message": "连接错误"
   },
   {
-    "channel": "湖南卫视4K",
-    "url": "http://8.138.7.223/tv/api.php?id=hnws4k",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "东方卫视4K",
-    "url": "http://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "河北卫视",
     "url": "http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "南国都市4K",
-    "url": "https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de",
+    "channel": "河北4K",
+    "url": "https://event.pull.hebtv.com:443/live/live101.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "浙江卫视",
-    "url": "https://play-qukan.cztv.com/live/1746687519046362.m3u8",
+    "channel": "CCTV1",
+    "url": "http://101.35.240.114:88/live.php?id=CCTV1",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "CCTV1",
-    "url": "http://101.35.240.114:88/live.php?id=CCTV1",
+    "channel": "浙江卫视",
+    "url": "https://play-qukan.cztv.com/live/1746687519046362.m3u8",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -594,10 +582,22 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "南国都市4K",
+    "url": "https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "CCTV5",
     "url": "http://101.35.240.114:88/live.php?id=CCTV5",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "湖南卫视4K",
+    "url": "http://8.138.7.223/tv/api.php?id=hnws4k",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "CCTV6",
@@ -612,26 +612,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV2",
-    "url": "http://148.135.93.213/live.php?id=CCTV2",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "CCTV4",
-    "url": "http://148.135.93.213/live.php?id=CCTV4",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "CCTV8",
     "url": "http://101.35.240.114:88/live.php?id=CCTV8",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "CCTV5+",
-    "url": "http://148.135.93.213/live.php?id=CCTV5p",
+    "channel": "CCTV2",
+    "url": "http://148.135.93.213/live.php?id=CCTV2",
     "valid": false,
     "message": "连接超时"
   },
@@ -642,14 +630,20 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "CCTV4",
+    "url": "http://148.135.93.213/live.php?id=CCTV4",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "CCTV12",
     "url": "http://101.35.240.114:88/live.php?id=CCTV12",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "CCTV7",
-    "url": "http://148.135.93.213/live.php?id=CCTV7",
+    "channel": "CCTV5+",
+    "url": "http://148.135.93.213/live.php?id=CCTV5p",
     "valid": false,
     "message": "连接超时"
   },
@@ -660,14 +654,20 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "CCTV16",
-    "url": "http://101.35.240.114:88/live.php?id=CCTV16",
+    "channel": "CCTV7",
+    "url": "http://148.135.93.213/live.php?id=CCTV7",
     "valid": false,
-    "message": "状态码: 404"
+    "message": "连接超时"
   },
   {
     "channel": "CCTV9",
     "url": "http://148.135.93.213/live.php?id=CCTV9",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "CCTV11",
+    "url": "http://148.135.93.213/live.php?id=CCTV11",
     "valid": false,
     "message": "连接超时"
   },
@@ -690,6 +690,12 @@
     "message": "连接错误"
   },
   {
+    "channel": "CCTV16",
+    "url": "http://101.35.240.114:88/live.php?id=CCTV16",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "CCTV-风云音乐",
     "url": "http://www.lizhinas.top:1009/rtp/239.252.219.87:5140",
     "valid": false,
@@ -702,10 +708,10 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-第一剧场",
-    "url": "http://www.lizhinas.top:1009/rtp/239.252.219.86:5140",
+    "channel": "CCTV13",
+    "url": "http://148.135.93.213/live.php?id=CCTV13",
     "valid": false,
-    "message": "连接错误"
+    "message": "连接超时"
   },
   {
     "channel": "CCTV-怀旧剧场",
@@ -720,20 +726,26 @@
     "message": "连接错误"
   },
   {
+    "channel": "CCTV-第一剧场",
+    "url": "http://www.lizhinas.top:1009/rtp/239.252.219.86:5140",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-央视台球",
+    "url": "http://www.lizhinas.top:1009/rtp/239.252.219.80:5140",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "CCTV-女性时尚",
     "url": "http://www.lizhinas.top:1009/rtp/239.252.219.94:5140",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "CCTV11",
-    "url": "http://148.135.93.213/live.php?id=CCTV11",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "CCTV-央视台球",
-    "url": "http://www.lizhinas.top:1009/rtp/239.252.219.80:5140",
+    "channel": "CCTV-电视指南",
+    "url": "http://www.lizhinas.top:1009/rtp/239.252.219.97:5140",
     "valid": false,
     "message": "连接错误"
   },
@@ -750,14 +762,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-电视指南",
-    "url": "http://www.lizhinas.top:1009/rtp/239.252.219.97:5140",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV13",
-    "url": "http://148.135.93.213/live.php?id=CCTV13",
+    "channel": "CCTV15",
+    "url": "http://148.135.93.213/live.php?id=CCTV15",
     "valid": false,
     "message": "连接超时"
   },
@@ -766,12 +772,6 @@
     "url": "http://drive.mxmy.net:8888/udp/239.3.1.188:8001",
     "valid": false,
     "message": "连接错误"
-  },
-  {
-    "channel": "CCTV15",
-    "url": "http://148.135.93.213/live.php?id=CCTV15",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "CETV-1 综合教育",
@@ -786,10 +786,10 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV17",
-    "url": "http://74.48.192.96:82/live.php?id=CCTV17",
-    "valid": false,
-    "message": "连接超时"
+    "channel": "熊猫直播",
+    "url": "https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "直播中国",
@@ -798,8 +798,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "熊猫直播",
-    "url": "https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8",
+    "channel": "CCTV17",
+    "url": "http://74.48.192.96:82/live.php?id=CCTV17",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "CGTN英语",
+    "url": "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -810,16 +816,16 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "CGTN英语",
-    "url": "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "CGTN法语",
     "url": "http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8",
     "valid": true,
     "message": "状态码: 200"
+  },
+  {
+    "channel": "CGTN俄语",
+    "url": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
   },
   {
     "channel": "中国天气",
@@ -838,12 +844,6 @@
     "url": "http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8",
     "valid": false,
     "message": "连接错误"
-  },
-  {
-    "channel": "CGTN俄语",
-    "url": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "CCTV1",
@@ -912,12 +912,6 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "CCTV11",
-    "url": "http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "CCTV16",
     "url": "http://p.ytelc.com/169l/0/cctv.php?id=cctv16",
     "valid": false,
@@ -930,16 +924,22 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "CCTV4K",
-    "url": "http://p.ytelc.com/169l/0/cctv.php?id=cctv4k",
+    "channel": "CCTV11",
+    "url": "http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8",
     "valid": false,
-    "message": "状态码: 404"
+    "message": "连接错误"
   },
   {
     "channel": "CCTV12",
     "url": "http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8",
     "valid": false,
     "message": "连接错误"
+  },
+  {
+    "channel": "CCTV4K",
+    "url": "http://p.ytelc.com/169l/0/cctv.php?id=cctv4k",
+    "valid": false,
+    "message": "状态码: 404"
   },
   {
     "channel": "CCTV13",
@@ -1164,12 +1164,6 @@
     "message": "连接超时"
   },
   {
-    "channel": "CCTV3",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cctv3",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "CCTV2",
     "url": "http://t.061899.xyz/tl/tl.php?id=cctv2",
     "valid": false,
@@ -1188,26 +1182,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV14",
-    "url": "http://175.8.28.207:9999/tsfile/live/0014_1.m3u8",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "CCTV5+",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cctv5p",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV6",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cctv6",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV4美洲",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cctv4m",
+    "channel": "CCTV3",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cctv3",
     "valid": false,
     "message": "连接错误"
   },
@@ -1218,14 +1194,44 @@
     "message": "连接错误"
   },
   {
+    "channel": "CCTV4美洲",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cctv4m",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "CCTV4欧洲",
     "url": "http://t.061899.xyz/tl/tl.php?id=cctv4o",
     "valid": false,
     "message": "连接错误"
   },
   {
+    "channel": "CCTV5+",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cctv5p",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV8",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cctv8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV14",
+    "url": "http://175.8.28.207:9999/tsfile/live/0014_1.m3u8",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "CCTV7",
     "url": "http://t.061899.xyz/tl/tl.php?id=cctv7",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV6",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cctv6",
     "valid": false,
     "message": "连接错误"
   },
@@ -1242,8 +1248,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV8",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cctv8",
+    "channel": "CCTV12",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cctv12",
     "valid": false,
     "message": "连接错误"
   },
@@ -1260,12 +1266,6 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV12",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cctv12",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "CCTV14",
     "url": "http://t.061899.xyz/tl/tl.php?id=cctv14",
     "valid": false,
@@ -1278,8 +1278,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV16",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cctv16",
+    "channel": "CCTV老故事",
+    "url": "http://t.061899.xyz/tl/tl.php?id=lgs",
     "valid": false,
     "message": "连接错误"
   },
@@ -1296,14 +1296,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CGTN",
-    "url": "http://t.061899.xyz/tl/tl.php?id=cgtn",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV老故事",
-    "url": "http://t.061899.xyz/tl/tl.php?id=lgs",
+    "channel": "CCTV16",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cctv16",
     "valid": false,
     "message": "连接错误"
   },
@@ -1320,18 +1314,6 @@
     "message": "连接错误"
   },
   {
-    "channel": "辽宁卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=lnws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "内蒙古卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=nmws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "CGTN纪录",
     "url": "http://t.061899.xyz/tl/tl.php?id=cgtnjl",
     "valid": false,
@@ -1344,32 +1326,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "宁夏卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=nxws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "甘肃卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=gsws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "陕西卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=sxws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "山东卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=sdws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "青海卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=qhws",
+    "channel": "CGTN",
+    "url": "http://t.061899.xyz/tl/tl.php?id=cgtn",
     "valid": false,
     "message": "连接错误"
   },
@@ -1380,20 +1338,38 @@
     "message": "连接错误"
   },
   {
-    "channel": "湖南卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=hunws",
+    "channel": "宁夏卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=nxws",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "河南卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=hnws",
+    "channel": "辽宁卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=lnws",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "江苏卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=jsws",
+    "channel": "甘肃卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=gsws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "内蒙古卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=nmws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "陕西卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=sxws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "青海卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=qhws",
     "valid": false,
     "message": "连接错误"
   },
@@ -1404,8 +1380,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "东南卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=dnws",
+    "channel": "河南卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=hnws",
     "valid": false,
     "message": "连接错误"
   },
@@ -1416,14 +1392,20 @@
     "message": "连接错误"
   },
   {
-    "channel": "海峡卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=hxws",
+    "channel": "湖南卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=hunws",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "广西卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=gxws",
+    "channel": "江苏卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=jsws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "山东卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=sdws",
     "valid": false,
     "message": "连接错误"
   },
@@ -1434,14 +1416,44 @@
     "message": "连接错误"
   },
   {
-    "channel": "云南卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=ynws",
+    "channel": "大湾区卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=dwqws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "东南卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=dnws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "广西卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=gxws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "海峡卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=hxws",
     "valid": false,
     "message": "连接错误"
   },
   {
     "channel": "新疆卫视",
     "url": "http://t.061899.xyz/tl/tl.php?id=xjws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "西藏卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=xzws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "云南卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=ynws",
     "valid": false,
     "message": "连接错误"
   },
@@ -1458,38 +1470,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "CHC动作电影",
-    "url": "http://t.061899.xyz/tl/tl.php?id=chcdzdy",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "CHC家庭影院",
     "url": "http://t.061899.xyz/tl/tl.php?id=chcjtdy",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "大湾区卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=dwqws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "海南卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=hinws",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "上海新闻综合",
-    "url": "http://t.061899.xyz/tl/tl.php?id=shxwzh",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "西藏卫视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=xzws",
+    "channel": "东方影视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=dfys",
     "valid": false,
     "message": "连接错误"
   },
@@ -1500,8 +1488,32 @@
     "message": "连接错误"
   },
   {
+    "channel": "上海新闻综合",
+    "url": "http://t.061899.xyz/tl/tl.php?id=shxwzh",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "海南卫视",
+    "url": "http://t.061899.xyz/tl/tl.php?id=hinws",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "上视纪实人文",
     "url": "http://t.061899.xyz/tl/tl.php?id=shjsrw",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CHC动作电影",
+    "url": "http://t.061899.xyz/tl/tl.php?id=chcdzdy",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "劲爆体育",
+    "url": "http://t.061899.xyz/tl/tl.php?id=jbty",
     "valid": false,
     "message": "连接错误"
   },
@@ -1518,14 +1530,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "劲爆体育",
-    "url": "http://t.061899.xyz/tl/tl.php?id=jbty",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "东方影视",
-    "url": "http://t.061899.xyz/tl/tl.php?id=dfys",
+    "channel": "乐游",
+    "url": "http://t.061899.xyz/tl/tl.php?id=ly",
     "valid": false,
     "message": "连接错误"
   },
@@ -1536,8 +1542,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "乐游",
-    "url": "http://t.061899.xyz/tl/tl.php?id=ly",
+    "channel": "七彩戏剧",
+    "url": "http://t.061899.xyz/tl/tl.php?id=qcxj",
     "valid": false,
     "message": "连接错误"
   },
@@ -1548,20 +1554,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "七彩戏剧",
-    "url": "http://t.061899.xyz/tl/tl.php?id=qcxj",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "游戏风云",
     "url": "http://t.061899.xyz/tl/tl.php?id=yxfy",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "优漫卡通",
-    "url": "http://t.061899.xyz/tl/tl.php?id=ymkt",
     "valid": false,
     "message": "连接错误"
   },
@@ -1570,6 +1564,12 @@
     "url": "http://101.35.240.114:88/live.php?id=湖南卫视",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "优漫卡通",
+    "url": "http://t.061899.xyz/tl/tl.php?id=ymkt",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "深圳卫视",
@@ -1592,6 +1592,12 @@
   {
     "channel": "江苏卫视",
     "url": "http://101.35.240.114:88/live.php?id=江苏卫视",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "陕西卫视",
+    "url": "http://101.35.240.114:88/live.php?id=陕西卫视",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -1620,18 +1626,6 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "陕西卫视",
-    "url": "http://101.35.240.114:88/live.php?id=陕西卫视",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "东方卫视",
-    "url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "西藏卫视",
     "url": "http://101.35.240.114:88/live.php?id=西藏卫视",
     "valid": false,
@@ -1642,6 +1636,12 @@
     "url": "http://101.35.240.114:88/live.php?id=新疆卫视",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "东方卫视",
+    "url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "青海卫视",
@@ -1668,16 +1668,16 @@
     "message": "连接超时"
   },
   {
-    "channel": "天津卫视",
-    "url": "http://148.135.93.213/live.php?id=天津卫视",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "安徽卫视",
     "url": "http://101.35.240.114:88/live.php?id=安徽卫视",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "天津卫视",
+    "url": "http://148.135.93.213/live.php?id=天津卫视",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "山东卫视",
@@ -1752,14 +1752,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "海南卫视",
-    "url": "http://120.76.248.139/live/bfgd/4200000473.m3u8",
+    "channel": "tvg-id=\"宁夏卫视\" tvg-name=\"宁夏卫视\" tvg-logo=\"https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png\" group-title=\"卫视频道\",宁夏卫视",
+    "url": "http://120.76.248.139/live/bfgd/4200000118.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "tvg-id=\"宁夏卫视\" tvg-name=\"宁夏卫视\" tvg-logo=\"https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png\" group-title=\"卫视频道\",宁夏卫视",
-    "url": "http://120.76.248.139/live/bfgd/4200000118.m3u8",
+    "channel": "海南卫视",
+    "url": "http://120.76.248.139/live/bfgd/4200000473.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -1776,12 +1776,6 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "厦门卫视",
-    "url": "http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "tvg-id=\"云南卫视\" tvg-name=\"云南卫视\" tvg-logo=\"https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png\" group-title=\"卫视频道\",云南卫视",
     "url": "http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXlud3M=",
     "valid": false,
@@ -1794,16 +1788,22 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "海峡卫视",
-    "url": "http://8.138.7.223/tv/hxws.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "厦门卫视",
+    "url": "http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "海南卫视",
     "url": "http://148.135.93.213/live.php?id=海南卫视",
     "valid": false,
     "message": "连接超时"
+  },
+  {
+    "channel": "海峡卫视",
+    "url": "http://8.138.7.223/tv/hxws.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "珠江卫视",
@@ -1818,28 +1818,16 @@
     "message": "连接超时"
   },
   {
-    "channel": "山东教育",
-    "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "香港卫视",
     "url": "http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "浙江卫视",
-    "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "channel": "山东教育",
+    "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
     "valid": true,
     "message": "状态码: 200"
-  },
-  {
-    "channel": "兵团卫视",
-    "url": "http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
   },
   {
     "channel": "CCTV1",
@@ -1848,20 +1836,26 @@
     "message": "状态码: 500"
   },
   {
+    "channel": "兵团卫视",
+    "url": "http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
     "channel": "CCTV2",
     "url": "http://112.27.235.94:8000/hls/2/index.m3u8",
     "valid": false,
     "message": "状态码: 500"
   },
   {
-    "channel": "CCTV3",
-    "url": "http://112.27.235.94:8000/hls/3/index.m3u8",
-    "valid": false,
-    "message": "状态码: 500"
+    "channel": "浙江卫视",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
-    "channel": "CCTV4",
-    "url": "http://112.27.235.94:8000/hls/4/index.m3u8",
+    "channel": "CCTV3",
+    "url": "http://112.27.235.94:8000/hls/3/index.m3u8",
     "valid": false,
     "message": "状态码: 500"
   },
@@ -1872,16 +1866,16 @@
     "message": "状态码: 500"
   },
   {
-    "channel": "CCTV5+",
-    "url": "http://112.27.235.94:8000/hls/6/index.m3u8",
+    "channel": "CCTV4",
+    "url": "http://112.27.235.94:8000/hls/4/index.m3u8",
     "valid": false,
     "message": "状态码: 500"
   },
   {
-    "channel": "海南卫视",
-    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=hnws",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "CCTV5+",
+    "url": "http://112.27.235.94:8000/hls/6/index.m3u8",
+    "valid": false,
+    "message": "状态码: 500"
   },
   {
     "channel": "CCTV6",
@@ -1962,6 +1956,12 @@
     "message": "状态码: 500"
   },
   {
+    "channel": "海南卫视",
+    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=hnws",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "浙江卫视",
     "url": "http://112.27.235.94:8000/hls/29/index.m3u8",
     "valid": false,
@@ -1986,14 +1986,14 @@
     "message": "状态码: 500"
   },
   {
-    "channel": "江苏卫视",
-    "url": "http://112.27.235.94:8000/hls/32/index.m3u8",
+    "channel": "深圳卫视",
+    "url": "http://112.27.235.94:8000/hls/33/index.m3u8",
     "valid": false,
     "message": "状态码: 500"
   },
   {
-    "channel": "深圳卫视",
-    "url": "http://112.27.235.94:8000/hls/33/index.m3u8",
+    "channel": "江苏卫视",
+    "url": "http://112.27.235.94:8000/hls/32/index.m3u8",
     "valid": false,
     "message": "状态码: 500"
   },
@@ -2076,14 +2076,14 @@
     "message": "状态码: 500"
   },
   {
-    "channel": "黑龙江卫视",
-    "url": "http://112.27.235.94:8000/hls/48/index.m3u8",
+    "channel": "辽宁卫视",
+    "url": "http://112.27.235.94:8000/hls/47/index.m3u8",
     "valid": false,
     "message": "状态码: 500"
   },
   {
-    "channel": "辽宁卫视",
-    "url": "http://112.27.235.94:8000/hls/47/index.m3u8",
+    "channel": "黑龙江卫视",
+    "url": "http://112.27.235.94:8000/hls/48/index.m3u8",
     "valid": false,
     "message": "状态码: 500"
   },
@@ -2100,8 +2100,8 @@
     "message": "状态码: 500"
   },
   {
-    "channel": "CCTV-2",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8",
+    "channel": "CCTV-1",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2118,20 +2118,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-1",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8",
+    "channel": "CCTV-2",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
     "channel": "CCTV-5",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-6",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2148,14 +2142,20 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-11",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8",
+    "channel": "CCTV-6",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
     "channel": "CCTV-10",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "CCTV-11",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2214,6 +2214,12 @@
     "message": "连接错误"
   },
   {
+    "channel": "CCTV-9",
+    "url": "http://p.ytelc.com/169l/0/cctv.php?id=cctv9",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "北京卫视",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8",
     "valid": false,
@@ -2244,20 +2250,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "CCTV-9",
-    "url": "http://p.ytelc.com/169l/0/cctv.php?id=cctv9",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "广东卫视",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "北京卫视4K",
-    "url": "http://106.53.99.30/tv/api.php?id=bjws4k",
     "valid": false,
     "message": "连接错误"
   },
@@ -2274,6 +2268,18 @@
     "message": "连接错误"
   },
   {
+    "channel": "北京卫视4K",
+    "url": "http://106.53.99.30/tv/api.php?id=bjws4k",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "山西卫视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "安徽卫视",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8",
     "valid": false,
@@ -2286,14 +2292,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "辽宁卫视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "山西卫视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8",
+    "channel": "河南卫视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2304,20 +2304,14 @@
     "message": "连接错误"
   },
   {
+    "channel": "辽宁卫视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "江西卫视",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "河南卫视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "贵州卫视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2334,8 +2328,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "湖北卫视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8",
+    "channel": "贵州卫视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2346,20 +2340,26 @@
     "message": "连接错误"
   },
   {
+    "channel": "湖北卫视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "云南卫视",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "东南卫视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8",
+    "channel": "海南卫视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "海南卫视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8",
+    "channel": "东南卫视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2388,14 +2388,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "东方影视",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8",
+    "channel": "东方财经",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "东方财经",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8",
+    "channel": "东方影视",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2406,32 +2406,20 @@
     "message": "连接错误"
   },
   {
-    "channel": "五星体育",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "上海都市",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
+    "channel": "五星体育",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "都市剧场",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "金色学堂",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "新闻综合",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2448,14 +2436,26 @@
     "message": "连接错误"
   },
   {
-    "channel": "游戏风云",
-    "url": "https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8",
+    "channel": "新闻综合",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "金色学堂",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
     "channel": "乐游频道",
     "url": "https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "游戏风云",
+    "url": "https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -2610,16 +2610,16 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "搜狐剧场",
-    "url": "https://hdl-vip-ws.qf.56.com/live/lc_11730.flv",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "中国电影频道",
     "url": "https://live.tvfix.org/live/cmc/index.m3u8",
     "valid": false,
     "message": "连接错误"
+  },
+  {
+    "channel": "搜狐剧场",
+    "url": "https://hdl-vip-ws.qf.56.com/live/lc_11730.flv",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "美亚电影台",
@@ -2628,26 +2628,26 @@
     "message": "连接错误"
   },
   {
-    "channel": "精彩影视",
-    "url": "http://111.22.153.159:35455/itv/6000000006000320630.m3u8?cdn=wasusyt",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CCTV-6电影",
-    "url": "http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "1905电影网",
     "url": "http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5",
     "valid": true,
     "message": "状态码: 200"
   },
   {
+    "channel": "精彩影视",
+    "url": "http://111.22.153.159:35455/itv/6000000006000320630.m3u8?cdn=wasusyt",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "纪实科教",
     "url": "http://120.76.248.139/live/bfgd/4200000113.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "CCTV-6电影",
+    "url": "http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -2724,32 +2724,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "动漫秀场",
-    "url": "http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "游戏风云",
-    "url": "http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "生活时尚",
-    "url": "http://111.22.153.159:35455/itv/5000000002000019634.m3u8?cdn=bestzb",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "第一财经",
-    "url": "http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "上海都市",
-    "url": "http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8",
+    "channel": "上海新闻",
+    "url": "http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8",
     "valid": false,
     "message": "连接超时"
   },
@@ -2760,10 +2736,34 @@
     "message": "连接超时"
   },
   {
-    "channel": "上海新闻",
-    "url": "http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8",
+    "channel": "第一财经",
+    "url": "http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8",
     "valid": false,
     "message": "连接超时"
+  },
+  {
+    "channel": "动漫秀场",
+    "url": "http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "生活时尚",
+    "url": "http://111.22.153.159:35455/itv/5000000002000019634.m3u8?cdn=bestzb",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "游戏风云",
+    "url": "http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "金色学堂",
+    "url": "http://111.22.153.159:35455/itv/5000000010000026105.m3u8?cdn=bestzb",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "都市剧场",
@@ -2772,10 +2772,10 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "金色学堂",
-    "url": "http://111.22.153.159:35455/itv/5000000010000026105.m3u8?cdn=bestzb",
+    "channel": "上海都市",
+    "url": "http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8",
     "valid": false,
-    "message": "连接错误"
+    "message": "连接超时"
   },
   {
     "channel": "天元围棋",
@@ -2792,6 +2792,12 @@
   {
     "channel": "CHC动作电影",
     "url": "http://101.35.240.114:88/live.php?id=CHC动作电影",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "凤凰中文台",
+    "url": "http://101.35.240.114:88/phenix.php?id=fhzw",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -2820,14 +2826,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "北京纪实科教8K",
-    "url": "http://101.35.240.114:88/brtv8k.php",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "凤凰中文台",
-    "url": "http://101.35.240.114:88/phenix.php?id=fhzw",
+    "channel": "五星体育",
+    "url": "http://101.35.240.114:88/live.php?id=五星体育",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -2838,64 +2838,10 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "五星体育",
-    "url": "http://101.35.240.114:88/live.php?id=五星体育",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "凤凰中文",
-    "url": "http://r.jdshipin.com/cCCzW",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "凤凰资讯",
-    "url": "http://r.jdshipin.com/0Rp07",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "凤凰香港",
-    "url": "http://r.jdshipin.com/yDoTN",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "凤凰香港",
-    "url": "http://r.jdshipin.com/NfC0f",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "澳视澳门",
-    "url": "http://r.jdshipin.com/n2YZI",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "CHC影迷电影",
     "url": "http://148.135.93.213/live.php?id=CHC影迷电影",
     "valid": false,
     "message": "连接超时"
-  },
-  {
-    "channel": "台湾+",
-    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "澳视卫星",
-    "url": "http://r.jdshipin.com/QFhCq",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "翡翠台",
-    "url": "http://r.jdshipin.com/qClQf",
-    "valid": true,
-    "message": "状态码: 200"
   },
   {
     "channel": "CHC家庭影院",
@@ -2904,130 +2850,184 @@
     "message": "连接超时"
   },
   {
+    "channel": "北京纪实科教8K",
+    "url": "http://101.35.240.114:88/brtv8k.php",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "凤凰中文",
+    "url": "http://r.jdshipin.com/cCCzW",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "凤凰资讯",
+    "url": "http://r.jdshipin.com/0Rp07",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "凤凰香港",
+    "url": "http://r.jdshipin.com/yDoTN",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "台湾+",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+    "valid": false,
+    "message": "状态码: 503"
+  },
+  {
+    "channel": "凤凰香港",
+    "url": "http://r.jdshipin.com/NfC0f",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "澳视澳门",
+    "url": "http://r.jdshipin.com/n2YZI",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "澳视卫星",
+    "url": "http://r.jdshipin.com/QFhCq",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "翡翠台",
+    "url": "http://r.jdshipin.com/qClQf",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "翡翠台",
     "url": "http://r.jdshipin.com/qrfbg",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "翡翠台",
-    "url": "http://r.jdshipin.com/n90gt",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "翡翠台",
-    "url": "http://r.jdshipin.com/GeWKr",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "明珠台",
-    "url": "http://r.jdshipin.com/ZQ4kN",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "翡翠台",
     "url": "http://r.jdshipin.com/62WM7",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
   },
   {
-    "channel": "TVB Plus",
-    "url": "http://r.jdshipin.com/Nr5jq",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "翡翠台",
+    "url": "http://r.jdshipin.com/n90gt",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "翡翠台",
+    "url": "http://r.jdshipin.com/GeWKr",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "明珠台",
+    "url": "http://r.jdshipin.com/ZQ4kN",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "明珠台",
     "url": "http://r.jdshipin.com/jUx8K",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "TVB Plus",
+    "url": "http://r.jdshipin.com/Nr5jq",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "TVB Plus",
     "url": "http://r.jdshipin.com/ndGgS",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "TVB星河",
-    "url": "http://r.jdshipin.com/sXuuD",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "TVB星河",
-    "url": "http://r.jdshipin.com/Voac4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "华丽翡翠台",
-    "url": "http://r.jdshipin.com/thuYX",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "ViuTV",
-    "url": "http://r.jdshipin.com/vSJvl",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "无线新闻",
     "url": "http://r.jdshipin.com/CkuBd",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "TVB星河",
+    "url": "http://r.jdshipin.com/sXuuD",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "TVB星河",
+    "url": "http://r.jdshipin.com/Voac4",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "华丽翡翠台",
+    "url": "http://r.jdshipin.com/thuYX",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "ViuTV",
+    "url": "http://r.jdshipin.com/vSJvl",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "ViuTV",
     "url": "http://r.jdshipin.com/TcKr2",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "HOY TV",
     "url": "http://r.jdshipin.com/sFw4S",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "广东珠江",
     "url": "http://r.jdshipin.com/sE5vO",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "广东体育",
     "url": "http://r.jdshipin.com/LiYdg",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "海峡卫视",
-    "url": "http://r.jdshipin.com/WtYt3",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "南国都市",
-    "url": "http://r.jdshipin.com/nWaZO",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "广州综合",
-    "url": "http://r.jdshipin.com/snhya",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "广州综合",
     "url": "http://r.jdshipin.com/iR6Gq",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "南国都市",
+    "url": "http://r.jdshipin.com/nWaZO",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "广州综合",
+    "url": "http://r.jdshipin.com/snhya",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "海峡卫视",
+    "url": "http://r.jdshipin.com/WtYt3",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "咪咕视频4K",
@@ -3042,14 +3042,20 @@
     "message": "连接超时"
   },
   {
+    "channel": "凤凰资讯",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "凤凰卫视",
     "url": "http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "凤凰资讯",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8",
+    "channel": "翡翠台 backup",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -3066,26 +3072,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "翡翠台 backup",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "明珠台",
     "url": "http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "iNews新闻台",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "J2",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -3096,8 +3084,20 @@
     "message": "连接错误"
   },
   {
-    "channel": "珠江卫视",
-    "url": "http://iptv.4666888.xyz/iptv2A.php?id=19",
+    "channel": "RHK 31",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "J2",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "iNews新闻台",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -3108,8 +3108,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "RHK 31",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8",
+    "channel": "珠江卫视",
+    "url": "http://iptv.4666888.xyz/iptv2A.php?id=19",
     "valid": false,
     "message": "连接错误"
   },
@@ -3126,26 +3126,32 @@
     "message": "连接超时"
   },
   {
-    "channel": "翡翠台",
-    "url": "http://iptv.4666888.xyz/iptv2A.php?id=34",
+    "channel": "RHK 32",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8",
     "valid": false,
-    "message": "连接超时"
+    "message": "连接错误"
   },
   {
-    "channel": "凤凰中文",
-    "url": "http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "VIUTV1",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
   },
   {
-    "channel": "龙华电影",
-    "url": "http://iptv.4666888.xyz/iptv2A.php?id=45",
+    "channel": "Viu6",
+    "url": "http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8",
     "valid": false,
-    "message": "连接超时"
+    "message": "连接错误"
   },
   {
     "channel": "凤凰资讯",
     "url": "http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "凤凰中文",
+    "url": "http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -3156,34 +3162,28 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "凤凰中文高清",
-    "url": "http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "RHK 32",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "凤凰资讯高清",
     "url": "http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "VIUTV1",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "澳门卫视",
-    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=as",
+    "channel": "凤凰中文高清",
+    "url": "http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
     "valid": true,
     "message": "状态码: 200"
+  },
+  {
+    "channel": "翡翠台",
+    "url": "http://iptv.4666888.xyz/iptv2A.php?id=34",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "龙华电影",
+    "url": "http://iptv.4666888.xyz/iptv2A.php?id=45",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "凤凰电影",
@@ -3194,6 +3194,12 @@
   {
     "channel": "澳视澳门",
     "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "澳门卫视",
+    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=as",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -3210,10 +3216,10 @@
     "message": "状态码: 400"
   },
   {
-    "channel": "Viu6",
-    "url": "http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8",
+    "channel": "澳亚卫视",
+    "url": "http://cdn9.163189.xyz/live/as/stream.m3u8",
     "valid": false,
-    "message": "连接错误"
+    "message": "连接超时"
   },
   {
     "channel": "TVB无线新闻",
@@ -3222,14 +3228,14 @@
     "message": "连接超时"
   },
   {
-    "channel": "澳亚卫视",
-    "url": "http://cdn9.163189.xyz/live/as/stream.m3u8",
+    "channel": "星空国际",
+    "url": "http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8",
     "valid": false,
     "message": "连接超时"
   },
   {
-    "channel": "星空国际",
-    "url": "http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8",
+    "channel": "TVB无线星河",
+    "url": "http://php.jdshipin.com:8880/smt.php?id=Xinhe",
     "valid": false,
     "message": "连接超时"
   },
@@ -3244,12 +3250,6 @@
     "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3",
     "valid": true,
     "message": "状态码: 200"
-  },
-  {
-    "channel": "TVB无线星河",
-    "url": "http://php.jdshipin.com:8880/smt.php?id=Xinhe",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "TVB娱乐新闻",
@@ -3324,14 +3324,20 @@
     "message": "异常: No connection adapters were found for 'rtmp://f13h.mine.nu/sat/tv111'"
   },
   {
-    "channel": "台视新闻",
-    "url": "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "TVB Plus",
+    "url": "http://bxtv.3a.ink/api.php?id=tvbp",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "环球电视",
     "url": "http://utv1.hqtvzb.com:9999/hls/world.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "台视新闻",
+    "url": "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -3348,14 +3354,20 @@
     "message": "连接错误"
   },
   {
+    "channel": "中视新闻",
+    "url": "http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "耀才财经",
     "url": "https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "中视新闻",
-    "url": "http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d",
+    "channel": "三立综合",
+    "url": "http://live4play.uk/livehttpplay?channel_id=12038",
     "valid": false,
     "message": "连接错误"
   },
@@ -3366,10 +3378,10 @@
     "message": "连接错误"
   },
   {
-    "channel": "三立综合",
-    "url": "http://live4play.uk/livehttpplay?channel_id=12038",
+    "channel": "非凡新闻",
+    "url": "rtmp://f13h.mine.nu/sat/tv581",
     "valid": false,
-    "message": "连接错误"
+    "message": "异常: No connection adapters were found for 'rtmp://f13h.mine.nu/sat/tv581'"
   },
   {
     "channel": "三立都会",
@@ -3378,28 +3390,16 @@
     "message": "连接错误"
   },
   {
-    "channel": "非凡新闻",
-    "url": "rtmp://f13h.mine.nu/sat/tv581",
-    "valid": false,
-    "message": "异常: No connection adapters were found for 'rtmp://f13h.mine.nu/sat/tv581'"
-  },
-  {
-    "channel": "三立戏剧",
-    "url": "http://61.221.215.25:8800/hls/41/index.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "年代新闻",
     "url": "http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "TVB Plus",
-    "url": "http://bxtv.3a.ink/api.php?id=tvbp",
-    "valid": false,
-    "message": "连接超时"
+    "channel": "三立戏剧",
+    "url": "http://61.221.215.25:8800/hls/41/index.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "东森超视",
@@ -3412,12 +3412,6 @@
     "url": "http://live4play.uk/livehttpplay?channel_id=20078",
     "valid": false,
     "message": "连接错误"
-  },
-  {
-    "channel": "星空卫视",
-    "url": "http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "东森电影",
@@ -3450,22 +3444,28 @@
     "message": "连接错误"
   },
   {
+    "channel": "星空卫视",
+    "url": "http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "民视新闻台",
     "url": "http://live4play.uk/livehttpplay?channel_id=20097",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "中天娱乐",
-    "url": "https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "美亚电影",
     "url": "http://ali.hlspull.yximgs.com/live/awei_mydy.flv",
     "valid": false,
     "message": "状态码: 403"
+  },
+  {
+    "channel": "中天娱乐",
+    "url": "https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "民视综艺台",
@@ -3480,6 +3480,12 @@
     "message": "连接错误"
   },
   {
+    "channel": "东森新闻",
+    "url": "https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "寰宇新闻",
     "url": "https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8",
     "valid": false,
@@ -3488,12 +3494,6 @@
   {
     "channel": "中视菁采",
     "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv064",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "中天亚洲台",
-    "url": "http://livetv.skycf.eu.org/live.m3u8?c=3",
     "valid": false,
     "message": "连接错误"
   },
@@ -3510,8 +3510,8 @@
     "message": "异常: No connection adapters were found for 'rtmp://f13h.mine.nu/sat/tv771'"
   },
   {
-    "channel": "纬来电影",
-    "url": "http://live4play.uk/livehttpplay?channel_id=20199",
+    "channel": "中天亚洲台",
+    "url": "http://livetv.skycf.eu.org/live.m3u8?c=3",
     "valid": false,
     "message": "连接错误"
   },
@@ -3528,6 +3528,12 @@
     "message": "异常: No connection adapters were found for 'rtmp://f13h.mine.nu/sat/tv701'"
   },
   {
+    "channel": "纬来电影",
+    "url": "http://live4play.uk/livehttpplay?channel_id=20199",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "纬来精采",
     "url": "http://61.221.215.25:8800/hls/48/index.m3u8",
     "valid": true,
@@ -3540,28 +3546,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "东森新闻",
-    "url": "https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "大爱2台",
-    "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
     "channel": "大爱1台",
     "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
     "valid": false,
     "message": "状态码: 403"
-  },
-  {
-    "channel": "TVBS欢乐台",
-    "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv068",
-    "valid": false,
-    "message": "连接错误"
   },
   {
     "channel": "TVBS新闻台",
@@ -3570,10 +3558,22 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "大爱2台",
+    "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
     "channel": "大立电视台",
     "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
     "valid": true,
     "message": "状态码: 200"
+  },
+  {
+    "channel": "TVBS欢乐台",
+    "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv068",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "番薯台",
@@ -3582,16 +3582,16 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "人间卫视",
-    "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u",
+    "channel": "八大戏剧台",
+    "url": "http://61.221.215.25:8800/hls/39/index.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "CAT电影",
-    "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv076",
-    "valid": false,
-    "message": "连接错误"
+    "channel": "人间卫视",
+    "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "AMC电影台",
@@ -3600,10 +3600,10 @@
     "message": "连接错误"
   },
   {
-    "channel": "八大戏剧台",
-    "url": "http://61.221.215.25:8800/hls/39/index.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "CAT电影",
+    "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv076",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "民视台湾台",
@@ -3618,34 +3618,22 @@
     "message": "连接超时"
   },
   {
-    "channel": "龙华电影",
-    "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "龙华卡通",
+    "url": "https://cdn8.163189.xyz/live/lhkt/stream.m3u8",
+    "valid": false,
+    "message": "状态码: 429"
   },
   {
     "channel": "龙华洋片",
     "url": "https://cdn8.163189.xyz/live/lhyp/stream.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "龙华经典",
-    "url": "https://cdn8.163189.xyz/live/lhjd/stream.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "状态码: 429"
   },
   {
     "channel": "龙华偶像",
     "url": "https://cdn8.163189.xyz/live/lhox/stream.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "龙华卡通",
-    "url": "https://cdn8.163189.xyz/live/lhkt/stream.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "状态码: 429"
   },
   {
     "channel": "靖天电影",
@@ -3654,16 +3642,28 @@
     "message": "连接错误"
   },
   {
-    "channel": "港台电视31",
-    "url": "https://cdn5.163189.xyz/live/rthk31/stream.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
+    "channel": "龙华经典",
+    "url": "https://cdn8.163189.xyz/live/lhjd/stream.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
-    "channel": "港台电视32",
-    "url": "https://cdn5.163189.xyz/live/rthk32/stream.m3u8",
+    "channel": "龙华电影",
+    "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "龙华戏剧",
+    "url": "https://cdn8.163189.xyz/live/lhxj/stream.m3u8",
     "valid": false,
-    "message": "状态码: 404"
+    "message": "状态码: 429"
+  },
+  {
+    "channel": "HOY78",
+    "url": "http://cdn.163189.xyz/live/hoy/stream.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "DAZN体育1",
@@ -3678,20 +3678,20 @@
     "message": "异常: No connection adapters were found for 'rtmp://f13h.mine.nu/sat/tv741'"
   },
   {
-    "channel": "HOY78",
-    "url": "http://cdn.163189.xyz/live/hoy/stream.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "港台电视32",
+    "url": "https://cdn5.163189.xyz/live/rthk32/stream.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "港台电视31",
+    "url": "https://cdn5.163189.xyz/live/rthk31/stream.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
   },
   {
     "channel": "龙华日韩",
     "url": "https://cdn8.163189.xyz/live/lhrh/stream.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "龙华戏剧",
-    "url": "https://cdn8.163189.xyz/live/lhxj/stream.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -3774,6 +3774,12 @@
     "message": "连接超时"
   },
   {
+    "channel": "RTHK31",
+    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "ELEVEN体育1",
     "url": "https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv",
     "valid": false,
@@ -3786,22 +3792,10 @@
     "message": "连接超时"
   },
   {
-    "channel": "RTHK31",
-    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "ELEVEN体育3",
     "url": "https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--wj-1.ctv",
     "valid": false,
     "message": "连接超时"
-  },
-  {
-    "channel": "RTHK32",
-    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32",
-    "valid": true,
-    "message": "状态码: 200"
   },
   {
     "channel": "八度空间",
@@ -3810,14 +3804,20 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "HOY TV",
-    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=hoytv",
+    "channel": "CH5",
+    "url": "https://cdn6.163189.xyz/163189/ch5",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "CH5",
-    "url": "https://cdn6.163189.xyz/163189/ch5",
+    "channel": "RTHK32",
+    "url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "HOY TV",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=hoytv",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -3900,10 +3900,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "Astro AEC",
-    "url": "http://php.jdshipin.com/smt.php?id=AEC",
-    "valid": false,
-    "message": "连接超时"
+    "channel": "TVB星河",
+    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=xinghe",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "NOW NEWS",
@@ -3914,12 +3914,6 @@
   {
     "channel": "澳视卫星",
     "url": "https://cdn6.163189.xyz/163189/as",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "TVB星河",
-    "url": "http://php.jdshipin.com/TVOD/iptv.php?id=xinghe",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -3942,20 +3936,26 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "Astro AEC",
+    "url": "http://php.jdshipin.com/smt.php?id=AEC",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "iHOT 爱喜剧",
     "url": "http://111.22.153.159:35455/itv/2000000004000000032.m3u8?cdn=hnbblive",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "iHOT 爱科幻",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000033.m3u8?cdn=hnbblive",
+    "channel": "iHOT 爱院线",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000034.m3u8?cdn=hnbblive",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "iHOT 爱院线",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000034.m3u8?cdn=hnbblive",
+    "channel": "iHOT 爱科幻",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000033.m3u8?cdn=hnbblive",
     "valid": false,
     "message": "连接错误"
   },
@@ -3972,14 +3972,44 @@
     "message": "连接错误"
   },
   {
+    "channel": "iHOT 爱谍战",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000038.m3u8?cdn=hnbblive",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "iHOY 爱历史",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000046.m3u8?cdn=hnbblive",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "iHOT 爱幼教",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000049.m3u8?cdn=hnbblive",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "iHOT 爱科学",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000047.m3u8?cdn=hnbblive",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "爱奇艺",
     "url": "http://php.jdshipin.com/smt.php?id=Qiyi",
     "valid": false,
     "message": "连接超时"
   },
   {
-    "channel": "iHOT 爱谍战",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000038.m3u8?cdn=hnbblive",
+    "channel": "iHOT 爱赛车",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000055.m3u8?cdn=hnbblive",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "iHOT 爱玩具",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000053.m3u8?cdn=hnbblive",
     "valid": false,
     "message": "连接错误"
   },
@@ -3996,36 +4026,6 @@
     "message": "连接超时"
   },
   {
-    "channel": "iHOY 爱历史",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000046.m3u8?cdn=hnbblive",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "iHOT 爱科学",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000047.m3u8?cdn=hnbblive",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "iHOT 爱幼教",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000049.m3u8?cdn=hnbblive",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "iHOT 爱玩具",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000053.m3u8?cdn=hnbblive",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "iHOT 爱赛车",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000055.m3u8?cdn=hnbblive",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "iHOT 爱旅行",
     "url": "http://111.22.153.159:35455/itv/2000000004000000056.m3u8?cdn=hnbblive",
     "valid": false,
@@ -4034,12 +4034,6 @@
   {
     "channel": "iHOT 爱奇谈",
     "url": "http://111.22.153.159:35455/itv/2000000004000000058.m3u8?cdn=hnbblive",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "iHOT 爱体育",
-    "url": "http://111.22.153.159:35455/itv/2000000004000000060.m3u8?cdn=hnbblive",
     "valid": false,
     "message": "连接错误"
   },
@@ -4064,6 +4058,12 @@
   {
     "channel": "NewTV 魅力潇湘",
     "url": "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=YanG-1989",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "iHOT 爱体育",
+    "url": "http://111.22.153.159:35455/itv/2000000004000000060.m3u8?cdn=hnbblive",
     "valid": false,
     "message": "连接错误"
   },
@@ -4122,6 +4122,12 @@
     "message": "连接错误"
   },
   {
+    "channel": "NewTV 超级体育",
+    "url": "http://111.22.153.159:35455/itv/1000000001000009601.m3u8?cdn=ystenlive",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "NewTV 家庭剧场",
     "url": "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989",
     "valid": false,
@@ -4142,12 +4148,6 @@
   {
     "channel": "NewTV 精品萌宠",
     "url": "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "NewTV 超级体育",
-    "url": "http://111.22.153.159:35455/itv/1000000001000009601.m3u8?cdn=ystenlive",
     "valid": false,
     "message": "连接错误"
   },
@@ -4188,14 +4188,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "NewTV 欢乐剧场",
-    "url": "http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8",
+    "channel": "NewTV 东北热剧",
+    "url": "http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8",
     "valid": false,
     "message": "连接超时"
   },
   {
-    "channel": "NewTV 东北热剧",
-    "url": "http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8",
+    "channel": "NewTV 欢乐剧场",
+    "url": "http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8",
     "valid": false,
     "message": "连接超时"
   },
@@ -4248,6 +4248,12 @@
     "message": "连接超时"
   },
   {
+    "channel": "咪咕赛事播01",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "咪咕赛事播02",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive",
     "valid": false,
@@ -4256,12 +4262,6 @@
   {
     "channel": "咪咕赛事播03",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "咪咕赛事播01",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4284,14 +4284,14 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播08",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播07",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播07",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播08",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4302,8 +4302,8 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播12",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播10",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4314,14 +4314,8 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播14",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "咪咕赛事播10",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播12",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4332,8 +4326,8 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播18",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播14",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4350,26 +4344,26 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播19",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "咪咕赛事播16",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播20",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播18",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播23",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播19",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "咪咕赛事播20",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4386,26 +4380,14 @@
     "message": "连接超时"
   },
   {
+    "channel": "咪咕赛事播23",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "咪咕赛事播24",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "咪咕赛事播28",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "咪咕赛事播27",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "咪咕赛事播26",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4416,8 +4398,32 @@
     "message": "连接超时"
   },
   {
+    "channel": "咪咕赛事播26",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "咪咕赛事播27",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "咪咕赛事播28",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "咪咕赛事播29",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "咪咕赛事播30",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4428,8 +4434,8 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播30",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播32",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4446,12 +4452,6 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播32",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "咪咕赛事播35",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive",
     "valid": false,
@@ -4464,14 +4464,14 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播38",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播37",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播37",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive",
+    "channel": "咪咕赛事播38",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4482,8 +4482,20 @@
     "message": "连接超时"
   },
   {
+    "channel": "咪咕赛事播40",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "咪咕赛事播42",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "咪咕赛事播41",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4500,26 +4512,8 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播41",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "咪咕赛事播40",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "咪咕赛事播45",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "咪咕赛事播49",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4542,6 +4536,12 @@
     "message": "连接超时"
   },
   {
+    "channel": "咪咕赛事播49",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "金鹰卡通",
     "url": "http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通",
     "valid": false,
@@ -4560,8 +4560,8 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "黑龙江少儿",
-    "url": "http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8",
+    "channel": "咪咕赛事播50",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4572,14 +4572,20 @@
     "message": "连接错误"
   },
   {
-    "channel": "咪咕赛事播52",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive",
+    "channel": "甘肃少儿",
+    "url": "https://hls.gstv.com.cn/49048r/922k96.m3u8",
     "valid": false,
-    "message": "连接超时"
+    "message": "状态码: 403"
   },
   {
     "channel": "咪咕赛事播51",
     "url": "http://vip.lqcc.xyz:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "咪咕赛事播52",
+    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive",
     "valid": false,
     "message": "连接超时"
   },
@@ -4590,10 +4596,22 @@
     "message": "连接超时"
   },
   {
-    "channel": "咪咕赛事播50",
-    "url": "http://vip.lqcc.xyz:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive",
+    "channel": "黑龙江少儿",
+    "url": "http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8",
     "valid": false,
     "message": "连接超时"
+  },
+  {
+    "channel": "宁夏少儿",
+    "url": "https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "哆啦A梦",
+    "url": "https://live.ottiptv.cc/huya/11601963",
+    "valid": false,
+    "message": "状态码: 404"
   },
   {
     "channel": "七龙珠",
@@ -4608,8 +4626,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "哆啦A梦",
-    "url": "https://live.ottiptv.cc/huya/11601963",
+    "channel": "猫和老鼠",
+    "url": "https://live.ottiptv.cc/huya/11352879",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4620,20 +4638,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "猫和老鼠",
-    "url": "https://live.ottiptv.cc/huya/11352879",
+    "channel": "蜡笔小新",
+    "url": "https://live.ottiptv.cc/bilibili/30837590",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "宁夏少儿",
-    "url": "https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "蜡笔小新",
-    "url": "https://live.ottiptv.cc/bilibili/30837590",
+    "channel": "精灵宝可梦",
+    "url": "https://live.ottiptv.cc/huya/23749096",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4652,12 +4664,6 @@
   {
     "channel": "中华小当家",
     "url": "https://live.ottiptv.cc/huya/11342413",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "精灵宝可梦",
-    "url": "https://live.ottiptv.cc/huya/23749096",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4692,14 +4698,20 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "李连杰电影",
-    "url": "https://live.metshop.top/huya/11342390",
+    "channel": "黄渤电影",
+    "url": "https://live.metshop.top/huya/11352876",
     "valid": false,
     "message": "状态码: 404"
   },
   {
     "channel": "强森电影",
     "url": "https://live.metshop.top/huya/21059581",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "李连杰电影",
+    "url": "https://live.metshop.top/huya/11342390",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4716,32 +4728,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "王晶电影",
-    "url": "https://live.metshop.top/huya/11602058",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "功夫电影",
-    "url": "https://live.metshop.top/huya/11352941",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "金庸武侠",
     "url": "https://live.metshop.top/huya/11342435",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "黄渤电影",
-    "url": "https://live.metshop.top/huya/11352876",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "贺岁电影",
-    "url": "https://live.metshop.top/huya/11601986",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4752,20 +4740,32 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "贺岁电影",
+    "url": "https://live.metshop.top/huya/11601986",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "王晶电影",
+    "url": "https://live.metshop.top/huya/11602058",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "武侠电影",
     "url": "https://live.metshop.top/huya/11342427",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "罪犯电影",
-    "url": "https://live.metshop.top/huya/11352962",
+    "channel": "功夫电影",
+    "url": "https://live.metshop.top/huya/11352941",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "战争电影",
-    "url": "https://live.metshop.top/huya/21059574",
+    "channel": "罪犯电影",
+    "url": "https://live.metshop.top/huya/11352962",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4782,26 +4782,32 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "枪战电影",
-    "url": "https://live.metshop.top/huya/21059579",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "狄仁杰电影",
     "url": "https://live.metshop.top/huya/30080229",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "宇宙科幻合集",
-    "url": "https://live.metshop.top/huya/11342428",
+    "channel": "战争电影",
+    "url": "https://live.metshop.top/huya/21059574",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "枪战电影",
+    "url": "https://live.metshop.top/huya/21059579",
     "valid": false,
     "message": "状态码: 404"
   },
   {
     "channel": "末日电影合集",
     "url": "https://live.ottiptv.cc/yy/1354889019",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "宇宙科幻合集",
+    "url": "https://live.metshop.top/huya/11342428",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4830,26 +4836,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "斗鱼港剧",
-    "url": "http://www.goodiptv.club/douyu/5061550",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "甘肃少儿",
-    "url": "https://hls.gstv.com.cn/49048r/922k96.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
     "channel": "华语影视",
     "url": "http://www.goodiptv.club/douyu/3928",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "经典剧集",
-    "url": "http://www.goodiptv.club/douyu/6863367",
+    "channel": "橙记港剧",
+    "url": "http://www.goodiptv.club/douyu/4549169",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4866,8 +4860,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "橙记港剧",
-    "url": "http://www.goodiptv.club/douyu/4549169",
+    "channel": "经典剧集",
+    "url": "http://www.goodiptv.club/douyu/6863367",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "斗鱼港剧",
+    "url": "http://www.goodiptv.club/douyu/5061550",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4878,20 +4878,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "新三国",
-    "url": "https://live.ottiptv.cc/huya/11352944",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "新水浒传",
     "url": "https://live.ottiptv.cc/huya/11342384",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "少年包青天第一部",
-    "url": "https://live.ottiptv.cc/yy/1356043677",
+    "channel": "新三国",
+    "url": "https://live.ottiptv.cc/huya/11352944",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4908,14 +4902,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "神探狄仁杰第三部",
-    "url": "https://live.ottiptv.cc/huya/11342425",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "爱情公寓",
-    "url": "https://live.ottiptv.cc/huya/11336726",
+    "channel": "少年包青天第一部",
+    "url": "https://live.ottiptv.cc/yy/1356043677",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4926,20 +4914,38 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "神探狄仁杰第三部",
+    "url": "https://live.ottiptv.cc/huya/11342425",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "神探狄仁杰第二部",
     "url": "https://goodiptv.club/douyu/12183882",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "亮剑",
-    "url": "https://live.ottiptv.cc/huya/30080238",
+    "channel": "雪豹",
+    "url": "https://live.ottiptv.cc/huya/29580970",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "雪豹",
-    "url": "https://live.ottiptv.cc/huya/29580970",
+    "channel": "爱情公寓",
+    "url": "https://live.ottiptv.cc/huya/11336726",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "爱情公寓（斗鱼）",
+    "url": "https://goodiptv.club/douyu/4105989",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "亮剑",
+    "url": "https://live.ottiptv.cc/huya/30080238",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4952,12 +4958,6 @@
   {
     "channel": "士兵突击",
     "url": "https://live.ottiptv.cc/huya/11342430",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "爱情公寓（斗鱼）",
-    "url": "https://goodiptv.club/douyu/4105989",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -4980,26 +4980,26 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "铁齿铜牙纪晓岚",
-    "url": "https://live.ottiptv.cc/huya/11342396",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "笑傲江湖",
     "url": "https://live.ottiptv.cc/huya/26355790",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "康熙王朝",
-    "url": "https://live.ottiptv.cc/huya/11352940",
+    "channel": "铁齿铜牙纪晓岚",
+    "url": "https://live.ottiptv.cc/huya/11342396",
     "valid": false,
     "message": "状态码: 404"
   },
   {
     "channel": "陈情令",
     "url": "https://live.ottiptv.cc/huya/29465862",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "康熙王朝",
+    "url": "https://live.ottiptv.cc/huya/11352940",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5016,26 +5016,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "鬼吹灯之怒晴湘西",
-    "url": "https://live.ottiptv.cc/huya/11602075",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "鬼吹灯之龙岭迷窟",
-    "url": "https://live.ottiptv.cc/huya/29465863",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "鬼吹灯之云南虫谷",
     "url": "https://live.ottiptv.cc/huya/11352898",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "伪装者",
-    "url": "https://live.ottiptv.cc/yy/1354936244",
+    "channel": "鬼吹灯之怒晴湘西",
+    "url": "https://live.ottiptv.cc/huya/11602075",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5046,8 +5034,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "隋唐英雄传",
-    "url": "https://live.ottiptv.cc/yy/1352475619",
+    "channel": "鬼吹灯之龙岭迷窟",
+    "url": "https://live.ottiptv.cc/huya/29465863",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "伪装者",
+    "url": "https://live.ottiptv.cc/yy/1354936244",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5064,6 +5058,12 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "隋唐英雄传",
+    "url": "https://live.ottiptv.cc/yy/1352475619",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "我是特种兵之利刃出鞘",
     "url": "https://live.ottiptv.cc/yy/37999586",
     "valid": false,
@@ -5076,14 +5076,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "三国演义",
-    "url": "https://live.ottiptv.cc/huya/11602081",
+    "channel": "西游记",
+    "url": "https://live.ottiptv.cc/huya/26355861",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "西游记",
-    "url": "https://live.ottiptv.cc/huya/26355861",
+    "channel": "乌龙闯情关",
+    "url": "https://live.ottiptv.cc/huya/26355767",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5094,8 +5094,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "乌龙闯情关",
-    "url": "https://live.ottiptv.cc/huya/26355767",
+    "channel": "三国演义",
+    "url": "https://live.ottiptv.cc/huya/11602081",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5142,14 +5142,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "知否知否",
-    "url": "https://live.ottiptv.cc/yy/21881901",
+    "channel": "梦中的那片海",
+    "url": "https://live.ottiptv.cc/huya/26355765",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "父母爱情",
-    "url": "https://live.ottiptv.cc/yy/1354926650",
+    "channel": "知否知否",
+    "url": "https://live.ottiptv.cc/yy/21881901",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5160,20 +5160,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "梦中的那片海",
-    "url": "https://live.ottiptv.cc/huya/26355765",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "康熙微服私访记",
     "url": "https://live.ottiptv.cc/huya/11342418",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "如懿传",
-    "url": "https://live.ottiptv.cc/huya/29465868",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5184,20 +5172,20 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "如懿传",
+    "url": "https://live.ottiptv.cc/huya/29465868",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "父母爱情",
+    "url": "https://live.ottiptv.cc/yy/1354926650",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "楚汉骄雄",
     "url": "https://live.metshop.top/huya/29465854",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "封神榜",
-    "url": "https://live.metshop.top/huya/29465849",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "西游记2",
-    "url": "https://live.metshop.top/huya/29465859",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5208,14 +5196,20 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "鹿鼎记",
-    "url": "https://live.ottiptv.cc/yy/28265277",
+    "channel": "西游记2",
+    "url": "https://live.metshop.top/huya/29465859",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "大唐双龙传",
-    "url": "https://live.metshop.top/huya/29465850",
+    "channel": "封神榜",
+    "url": "https://live.metshop.top/huya/29465849",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "鹿鼎记",
+    "url": "https://live.ottiptv.cc/yy/28265277",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5238,8 +5232,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "笑傲江湖",
-    "url": "https://live.metshop.top/huya/23865142",
+    "channel": "大唐双龙传",
+    "url": "https://live.metshop.top/huya/29465850",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5262,6 +5256,12 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "笑傲江湖",
+    "url": "https://live.metshop.top/huya/23865142",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "谈判专家",
     "url": "https://live.ottiptv.cc/yy/1382735560",
     "valid": false,
@@ -5270,12 +5270,6 @@
   {
     "channel": "刑事侦缉档案",
     "url": "https://live.metshop.top/huya/29465856",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "法政先锋",
-    "url": "https://live.metshop.top/huya/23863804",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5292,14 +5286,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "使徒行者",
-    "url": "https://live.metshop.top/huya/23734256",
+    "channel": "法政先锋",
+    "url": "https://live.metshop.top/huya/23863804",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "金枝欲孽",
-    "url": "https://live.metshop.top/huya/29465847",
+    "channel": "使徒行者",
+    "url": "https://live.metshop.top/huya/23734256",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5310,20 +5304,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "创世纪",
-    "url": "https://live.metshop.top/huya/29465852",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "妙手仁心",
-    "url": "https://live.metshop.top/huya/29465853",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "大时代",
-    "url": "https://live.metshop.top/huya/23865161",
+    "channel": "金枝欲孽",
+    "url": "https://live.metshop.top/huya/29465847",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5334,14 +5316,32 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "笑看风云",
-    "url": "https://live.metshop.top/huya/29465858",
+    "channel": "大时代",
+    "url": "https://live.metshop.top/huya/23865161",
     "valid": false,
     "message": "状态码: 404"
   },
   {
     "channel": "野蛮亲家",
     "url": "https://live.metshop.top/huya/23863796",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "创世纪",
+    "url": "https://live.metshop.top/huya/29465852",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "笑看风云",
+    "url": "https://live.metshop.top/huya/29465858",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "妙手仁心",
+    "url": "https://live.metshop.top/huya/29465853",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -5406,8 +5406,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "我不是药神",
-    "url": "https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8",
+    "channel": "BRTV影视",
+    "url": "https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742954511&sign=5241ba5667bd08639fd195ea9db6da5a",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -5424,16 +5424,16 @@
     "message": "连接错误"
   },
   {
+    "channel": "我不是药神",
+    "url": "https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
     "channel": "BRTV生活",
     "url": "http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND",
     "valid": false,
     "message": "连接错误"
-  },
-  {
-    "channel": "让子弹飞",
-    "url": "https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
   },
   {
     "channel": "BRTV国际频道",
@@ -5478,8 +5478,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "BRTV影视",
-    "url": "https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742954511&sign=5241ba5667bd08639fd195ea9db6da5a",
+    "channel": "让子弹飞",
+    "url": "https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -5490,20 +5490,14 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "优优宝贝",
-    "url": "http://120.76.248.139/live/bfgd/4200000153.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "中华特产",
     "url": "http://120.76.248.139/live/bfgd/4200000158.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "四海钓鱼",
-    "url": "http://120.76.248.139/live/bfgd/4200000229.m3u8",
+    "channel": "优优宝贝",
+    "url": "http://120.76.248.139/live/bfgd/4200000153.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -5514,26 +5508,20 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "四海钓鱼",
+    "url": "http://120.76.248.139/live/bfgd/4200000229.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "车迷频道",
     "url": "http://120.76.248.139/live/bfgd/4200000146.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "BRTV卡酷少儿",
-    "url": "http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "环球旅游",
     "url": "http://120.76.248.139/live/bfgd/4200000147.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "纪实人文",
-    "url": "http://8.138.7.223/tv/shtv.php?id=xjs",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -5548,6 +5536,18 @@
     "url": "http://111.22.153.159:35455/itv/5000000007000010003.m3u8?cdn=bestzb",
     "valid": false,
     "message": "连接错误"
+  },
+  {
+    "channel": "BRTV卡酷少儿",
+    "url": "http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "纪实人文",
+    "url": "http://8.138.7.223/tv/shtv.php?id=xjs",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "东方影视",
@@ -5568,14 +5568,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "五星体育",
-    "url": "http://8.138.7.223/tv/shtv.php?id=wxty",
+    "channel": "第一财经",
+    "url": "http://8.138.7.223/tv/shtv.php?id=dycj",
     "valid": false,
     "message": "状态码: 503"
   },
   {
-    "channel": "第一财经",
-    "url": "http://8.138.7.223/tv/shtv.php?id=dycj",
+    "channel": "五星体育",
+    "url": "http://8.138.7.223/tv/shtv.php?id=wxty",
     "valid": false,
     "message": "状态码: 503"
   },
@@ -5592,26 +5592,20 @@
     "message": "连接错误"
   },
   {
+    "channel": "云和新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "萧山综合",
     "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "文成新闻综合",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "青田电视台",
     "url": "http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "云和新闻综合",
-    "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -5628,14 +5622,26 @@
     "message": "连接错误"
   },
   {
+    "channel": "金鹰卡通",
+    "url": "http://tvbox6.icu/tv/mgtv.php?id=287",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "湖南爱晚",
     "url": "http://tvbox6.icu/tv/mgtv.php?id=261",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "金鹰卡通",
-    "url": "http://tvbox6.icu/tv/mgtv.php?id=287",
+    "channel": "茶友频道",
+    "url": "http://drive.mxmy.net:8888/udp/239.3.1.165:8001",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "湖南视剧",
+    "url": "http://tvbox6.icu/tv/mgtv.php?id=484",
     "valid": false,
     "message": "连接错误"
   },
@@ -5646,8 +5652,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "湖南视剧",
-    "url": "http://tvbox6.icu/tv/mgtv.php?id=484",
+    "channel": "快乐垂钓",
+    "url": "http://drive.mxmy.net:8888/udp/239.3.1.164:8001",
     "valid": false,
     "message": "连接错误"
   },
@@ -5694,20 +5700,20 @@
     "message": "连接错误"
   },
   {
-    "channel": "快乐垂钓",
-    "url": "http://drive.mxmy.net:8888/udp/239.3.1.164:8001",
-    "valid": false,
-    "message": "连接错误"
+    "channel": "文成新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
-    "channel": "茶友频道",
-    "url": "http://drive.mxmy.net:8888/udp/239.3.1.165:8001",
+    "channel": "湖南爱晚",
+    "url": "http://p2.vzan.com/527645544/149039617847513156/live.m3u8",
     "valid": false,
-    "message": "连接错误"
+    "message": "状态码: 404"
   },
   {
-    "channel": "四川影视文艺",
-    "url": "http://wouu.net:9977/udp/239.93.0.166:5140",
+    "channel": "四川新闻",
+    "url": "http://wouu.net:9977/udp/239.93.0.47:5140",
     "valid": false,
     "message": "连接错误"
   },
@@ -5718,8 +5724,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "四川经济",
-    "url": "http://wouu.net:9977/udp/239.93.1.101:5140",
+    "channel": "四川影视文艺",
+    "url": "http://wouu.net:9977/udp/239.93.0.166:5140",
     "valid": false,
     "message": "连接错误"
   },
@@ -5730,26 +5736,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "湖南爱晚",
-    "url": "http://p2.vzan.com/527645544/149039617847513156/live.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "四川妇女儿童",
-    "url": "http://wouu.net:9977/udp/239.93.0.219:5140",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "四川公共乡村",
     "url": "http://wouu.net:9977/udp/239.93.0.52:5140",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "四川新闻",
-    "url": "http://wouu.net:9977/udp/239.93.0.47:5140",
+    "channel": "四川经济",
+    "url": "http://wouu.net:9977/udp/239.93.1.101:5140",
     "valid": false,
     "message": "连接错误"
   },
@@ -5772,16 +5766,16 @@
     "message": "状态码: 502"
   },
   {
+    "channel": "四川妇女儿童",
+    "url": "http://wouu.net:9977/udp/239.93.0.219:5140",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "万源新闻综合",
     "url": "http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd",
     "valid": false,
     "message": "状态码: 405"
-  },
-  {
-    "channel": "湖南教育",
-    "url": "http://222.241.154.37:9901/tsfile/live/23027_1.m3u8",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "叙州新闻综合",
@@ -5790,40 +5784,46 @@
     "message": "状态码: 502"
   },
   {
+    "channel": "湖南教育",
+    "url": "http://222.241.154.37:9901/tsfile/live/23027_1.m3u8",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "广安公共",
     "url": "http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "广元公共",
-    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "广元综合",
-    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "乐山新闻综合",
+    "url": "http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "剑阁综合",
     "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "广元公共",
+    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "广元综合",
+    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "沐川综合",
     "url": "rtmp://tv.mcrm.org.cn:1935/channellive/tv01",
     "valid": false,
     "message": "异常: No connection adapters were found for 'rtmp://tv.mcrm.org.cn:1935/channellive/tv01'"
-  },
-  {
-    "channel": "乐山新闻综合",
-    "url": "http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "沙湾融媒",
@@ -5862,16 +5862,22 @@
     "message": "连接超时"
   },
   {
-    "channel": "金川乡村",
-    "url": "http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd",
+    "channel": "长宁综合",
+    "url": "http://cnpull.sccnfb.com:80/live/123456.m3u8",
     "valid": false,
-    "message": "连接超时"
+    "message": "状态码: 403"
   },
   {
     "channel": "绵阳科技",
     "url": "http://livepull.myntv.cn:80/rtmp/mykj.m3u8",
     "valid": false,
     "message": "连接错误"
+  },
+  {
+    "channel": "金川乡村",
+    "url": "http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "绵阳综合",
@@ -5886,12 +5892,6 @@
     "message": "连接错误"
   },
   {
-    "channel": "长宁综合",
-    "url": "http://cnpull.sccnfb.com:80/live/123456.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
     "channel": "石棉综合",
     "url": "rtmp://tv.yunxya.com:1937/channellive/shimian",
     "valid": false,
@@ -5900,6 +5900,12 @@
   {
     "channel": "雅安新闻综合",
     "url": "https://play.yunxya.com/channellive/xinwen.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "荥经综合",
+    "url": "https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -5916,22 +5922,16 @@
     "message": "状态码: 405"
   },
   {
-    "channel": "甘孜综合",
-    "url": "http://tv.drs.ganzitv.com:8100/channellive/gztv.flv",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
-    "channel": "汉源综合",
-    "url": "http://live.hyxrmt.com:85/live/xwpd.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "辽宁公共",
     "url": "http://dassby.qqff.top:99/live/辽宁公共/index.m3u8",
     "valid": true,
     "message": "状态码: 200"
+  },
+  {
+    "channel": "甘孜综合",
+    "url": "http://tv.drs.ganzitv.com:8100/channellive/gztv.flv",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "辽宁北方",
@@ -5940,16 +5940,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "朝天综合",
-    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "荥经综合",
-    "url": "https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "汉源综合",
+    "url": "http://live.hyxrmt.com:85/live/xwpd.m3u8",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "辽宁影视",
@@ -5964,6 +5958,12 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "朝天综合",
+    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "辽宁生活",
     "url": "http://dassby.qqff.top:99/live/辽宁生活/index.m3u8",
     "valid": true,
@@ -5976,14 +5976,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "辽宁体育",
-    "url": "http://dassby.qqff.top:99/live/辽宁体育/index.m3u8",
+    "channel": "辽宁都市",
+    "url": "http://dassby.qqff.top:99/live/辽宁都市/index.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "辽宁都市",
-    "url": "http://dassby.qqff.top:99/live/辽宁都市/index.m3u8",
+    "channel": "辽宁体育",
+    "url": "http://dassby.qqff.top:99/live/辽宁体育/index.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -6000,12 +6000,6 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "辽宁北方",
-    "url": "http://120.76.248.139/live/bfgd/4200000071.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "辽宁公共",
     "url": "http://120.76.248.139/live/bfgd/4200000481.m3u8",
     "valid": true,
@@ -6018,8 +6012,20 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "辽宁北方",
+    "url": "http://120.76.248.139/live/bfgd/4200000071.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "辽宁教育青少",
     "url": "http://120.76.248.139/live/bfgd/4200000075.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "辽宁经济",
+    "url": "http://120.76.248.139/live/bfgd/4200000076.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -6032,12 +6038,6 @@
   {
     "channel": "辽宁经济",
     "url": "http://120.76.248.139/live/bfgd/4200000480.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "辽宁经济",
-    "url": "http://120.76.248.139/live/bfgd/4200000076.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -6072,16 +6072,16 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "广东公共",
-    "url": "http://218.13.14.6:60050/tsfile/live/1020_1.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
     "channel": "广东大湾区",
     "url": "http://222.128.55.152:9080/live/dwq.m3u8",
     "valid": true,
     "message": "状态码: 200"
+  },
+  {
+    "channel": "广东公共",
+    "url": "http://218.13.14.6:60050/tsfile/live/1020_1.m3u8",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "广东影视",
@@ -6108,14 +6108,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "广州综合",
-    "url": "http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8",
+    "channel": "广州新闻",
+    "url": "http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "广州新闻",
-    "url": "http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3",
+    "channel": "广州综合",
+    "url": "http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -6128,12 +6128,6 @@
   {
     "channel": "南国都市",
     "url": "http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "东莞生活资讯",
-    "url": "https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -6156,16 +6150,16 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "东莞生活资讯",
+    "url": "https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "江苏新闻",
     "url": "http://20240504.shunyue1809.com:6321/udp/239.49.8.120:8000",
     "valid": false,
     "message": "连接错误"
-  },
-  {
-    "channel": "河源公共",
-    "url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
   },
   {
     "channel": "河源综合",
@@ -6174,14 +6168,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "江苏城市",
-    "url": "https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv",
-    "valid": false,
-    "message": "连接超时"
+    "channel": "河源公共",
+    "url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
-    "channel": "番禺综合",
-    "url": "http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv",
+    "channel": "江苏城市",
+    "url": "https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv",
     "valid": false,
     "message": "连接超时"
   },
@@ -6194,6 +6188,12 @@
   {
     "channel": "江苏影视",
     "url": "https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "番禺综合",
+    "url": "http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv",
     "valid": false,
     "message": "连接超时"
   },
@@ -6216,10 +6216,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "河南卫视",
-    "url": "http://1.94.31.214/php/hntv.php?id=hnws",
-    "valid": false,
-    "message": "状态码: 404"
+    "channel": "苏州文化生活",
+    "url": "https://live-auth.51kandianshi.com/szgd/csztv3.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "武术世界",
@@ -6234,12 +6234,6 @@
     "message": "连接错误"
   },
   {
-    "channel": "苏州文化生活",
-    "url": "https://live-auth.51kandianshi.com/szgd/csztv3.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "梨园频道",
     "url": "http://www.lizhinas.top:1009/rtp/239.252.220.179:5140",
     "valid": false,
@@ -6250,6 +6244,12 @@
     "url": "https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv",
     "valid": false,
     "message": "连接超时"
+  },
+  {
+    "channel": "河南卫视",
+    "url": "http://1.94.31.214/php/hntv.php?id=hnws",
+    "valid": false,
+    "message": "状态码: 404"
   },
   {
     "channel": "江苏体育休闲",
@@ -6270,6 +6270,12 @@
     "message": "连接错误"
   },
   {
+    "channel": "河南法治",
+    "url": "http://www.cdnstv.com:6398/hls/1112/index.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "河南乡村",
     "url": "http://www.cdnstv.com:6398/hls/1116/index.m3u8",
     "valid": false,
@@ -6288,20 +6294,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "河南法治",
-    "url": "http://www.cdnstv.com:6398/hls/1112/index.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "河南电视剧",
     "url": "http://1.94.31.214/php/hntv.php?id=hndsj",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "收藏天下",
-    "url": "http://www.cdnstv.com:6398/hls/1118/index.m3u8",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -6312,26 +6306,32 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "中华功夫",
-    "url": "http://www.cdnstv.com:6398/hls/1120/index.m3u",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "河南都市",
     "url": "http://1.94.31.214/php/hntv.php?id=hnds",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "河南新闻",
-    "url": "http://1.94.31.214/php/hntv.php?id=hnxw",
+    "channel": "河南法治",
+    "url": "http://1.94.31.214/php/hntv.php?id=hmfz",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "河南法治",
-    "url": "http://1.94.31.214/php/hntv.php?id=hmfz",
+    "channel": "收藏天下",
+    "url": "http://www.cdnstv.com:6398/hls/1118/index.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "中华功夫",
+    "url": "http://www.cdnstv.com:6398/hls/1120/index.m3u",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "河南新闻",
+    "url": "http://1.94.31.214/php/hntv.php?id=hnxw",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -6348,14 +6348,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "河南梨园",
-    "url": "http://1.94.31.214/php/hntv.php?id=hnly",
+    "channel": "河南国际",
+    "url": "http://1.94.31.214/php/hntv.php?id=hngj",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "河南国际",
-    "url": "http://1.94.31.214/php/hntv.php?id=hngj",
+    "channel": "河南梨园",
+    "url": "http://1.94.31.214/php/hntv.php?id=hnly",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -6390,10 +6390,10 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "河北卫视",
-    "url": "http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59",
+    "channel": "河北经济",
+    "url": "http://1.94.31.214/php/hebei.php?id=jjsh",
     "valid": false,
-    "message": "状态码: 403"
+    "message": "状态码: 404"
   },
   {
     "channel": "河北都市",
@@ -6402,16 +6402,16 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "河北经济",
-    "url": "http://1.94.31.214/php/hebei.php?id=jjsh",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "河北影视",
     "url": "http://1.94.31.214/php/hebei.php?id=hbys",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "河北卫视",
+    "url": "http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59",
+    "valid": false,
+    "message": "状态码: 403"
   },
   {
     "channel": "河北少儿",
@@ -6432,22 +6432,16 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "邢台生活",
-    "url": "https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "邢台综合",
     "url": "http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "石家庄新闻综合",
-    "url": "http://nn.7x9d.cn/石家庄.php?id=4",
-    "valid": false,
-    "message": "状态码: 404"
+    "channel": "邢台生活",
+    "url": "https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "石家庄城市服务",
@@ -6456,8 +6450,8 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "石家庄文化娱乐",
-    "url": "http://nn.7x9d.cn/石家庄.php?id=6",
+    "channel": "石家庄新闻综合",
+    "url": "http://nn.7x9d.cn/石家庄.php?id=4",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -6466,6 +6460,12 @@
     "url": "https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8",
     "valid": true,
     "message": "状态码: 200"
+  },
+  {
+    "channel": "石家庄文化娱乐",
+    "url": "http://nn.7x9d.cn/石家庄.php?id=6",
+    "valid": false,
+    "message": "状态码: 404"
   },
   {
     "channel": "邯郸科技教育",
@@ -6492,10 +6492,22 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "河北睛彩",
+    "url": "http://vip.lqcc.xyz:15511/rtp/239.254.200.27:6000",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
     "channel": "西部电影",
     "url": "http://112.46.105.20:8009/hls/62/index.m3u8",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "河北杂技",
+    "url": "http://vip.lqcc.xyz:15511/rtp/239.254.201.139:7203",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "新闻咨询",
@@ -6510,22 +6522,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "河北睛彩",
-    "url": "http://vip.lqcc.xyz:15511/rtp/239.254.200.27:6000",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "体育休闲",
     "url": "http://112.46.105.20:8009/hls/24/index.m3u8",
     "valid": false,
     "message": "状态码: 404"
-  },
-  {
-    "channel": "河北杂技",
-    "url": "http://vip.lqcc.xyz:15511/rtp/239.254.201.139:7203",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "陕西银龄",
@@ -6618,20 +6618,14 @@
     "message": "状态码: 418"
   },
   {
-    "channel": "武汉电视剧",
-    "url": "http://stream.appwuhan.com/2tzb/sd/live.m3u8",
-    "valid": false,
-    "message": "状态码: 418"
-  },
-  {
     "channel": "武汉科技生活",
     "url": "http://stream.appwuhan.com/3tzb/sd/live.m3u8",
     "valid": false,
     "message": "状态码: 418"
   },
   {
-    "channel": "武汉经济",
-    "url": "http://stream.appwuhan.com/4tzb/sd/live.m3u8",
+    "channel": "武汉电视剧",
+    "url": "http://stream.appwuhan.com/2tzb/sd/live.m3u8",
     "valid": false,
     "message": "状态码: 418"
   },
@@ -6642,34 +6636,22 @@
     "message": "连接超时"
   },
   {
-    "channel": "湖北经视",
-    "url": "http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "武汉文体",
     "url": "http://stream.appwuhan.com/5tzb/sd/live.m3u8",
     "valid": false,
     "message": "状态码: 418"
   },
   {
-    "channel": "江夏新闻综合",
-    "url": "http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "武汉外语",
-    "url": "http://stream.appwuhan.com/6tzb/sd/live.m3u8",
+    "channel": "武汉经济",
+    "url": "http://stream.appwuhan.com/4tzb/sd/live.m3u8",
     "valid": false,
     "message": "状态码: 418"
   },
   {
-    "channel": "东南卫视",
-    "url": "http://8.138.7.223/tv/fjtv1.php?id=dnws",
-    "valid": true,
-    "message": "状态码: 302"
+    "channel": "湖北经视",
+    "url": "http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "十堰新闻",
@@ -6678,14 +6660,32 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "厦门卫视",
-    "url": "http://8.138.7.223/tv/fjtv1.php?id=xmws",
+    "channel": "江夏新闻综合",
+    "url": "http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "东南卫视",
+    "url": "http://8.138.7.223/tv/fjtv1.php?id=dnws",
     "valid": true,
     "message": "状态码: 302"
   },
   {
+    "channel": "武汉外语",
+    "url": "http://stream.appwuhan.com/6tzb/sd/live.m3u8",
+    "valid": false,
+    "message": "状态码: 418"
+  },
+  {
     "channel": "福建综合",
     "url": "http://8.138.7.223/tv/fjtv1.php?id=fjzh",
+    "valid": true,
+    "message": "状态码: 302"
+  },
+  {
+    "channel": "厦门卫视",
+    "url": "http://8.138.7.223/tv/fjtv1.php?id=xmws",
     "valid": true,
     "message": "状态码: 302"
   },
@@ -6702,14 +6702,14 @@
     "message": "状态码: 302"
   },
   {
-    "channel": "福建电视剧",
-    "url": "http://8.138.7.223/tv/fjtv1.php?id=fjdsj",
+    "channel": "福建旅游",
+    "url": "http://8.138.7.223/tv/fjtv1.php?id=fjly",
     "valid": true,
     "message": "状态码: 302"
   },
   {
-    "channel": "福建旅游",
-    "url": "http://8.138.7.223/tv/fjtv1.php?id=fjly",
+    "channel": "福建电视剧",
+    "url": "http://8.138.7.223/tv/fjtv1.php?id=fjdsj",
     "valid": true,
     "message": "状态码: 302"
   },
@@ -6726,6 +6726,12 @@
     "message": "状态码: 302"
   },
   {
+    "channel": "福州新闻综合",
+    "url": "http://8.138.7.223/tv/fjtv1.php?id=fz1",
+    "valid": true,
+    "message": "状态码: 302"
+  },
+  {
     "channel": "福建少儿",
     "url": "http://8.138.7.223/tv/fjtv1.php?id=fjse",
     "valid": true,
@@ -6738,26 +6744,20 @@
     "message": "状态码: 302"
   },
   {
-    "channel": "福州新闻综合",
-    "url": "http://8.138.7.223/tv/fjtv1.php?id=fz1",
-    "valid": true,
-    "message": "状态码: 302"
-  },
-  {
     "channel": "泉州新闻综合",
     "url": "http://8.138.7.223/tv/fjtv1.php?id=qz1",
     "valid": true,
     "message": "状态码: 302"
   },
   {
-    "channel": "三明综合",
-    "url": "http://8.138.7.223/tv/fjtv1.php?id=sm1",
+    "channel": "莆田综合",
+    "url": "http://8.138.7.223/tv/fjtv1.php?id=pt1",
     "valid": true,
     "message": "状态码: 302"
   },
   {
-    "channel": "莆田综合",
-    "url": "http://8.138.7.223/tv/fjtv1.php?id=pt1",
+    "channel": "三明综合",
+    "url": "http://8.138.7.223/tv/fjtv1.php?id=sm1",
     "valid": true,
     "message": "状态码: 302"
   },
@@ -6786,14 +6786,8 @@
     "message": "状态码: 302"
   },
   {
-    "channel": "海南自贸",
-    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "海南新闻",
-    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd",
+    "channel": "三沙卫视",
+    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=ssws",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -6804,16 +6798,22 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "海南自贸",
+    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "黑龙江新闻法治",
     "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "三沙卫视",
-    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=ssws",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "青神综合",
+    "url": "http://lmt.scqstv.com:80/live1/live1.m3u8",
+    "valid": false,
+    "message": "连接超时"
   },
   {
     "channel": "黑龙江文体",
@@ -6846,6 +6846,12 @@
     "message": "状态码: 200"
   },
   {
+    "channel": "海南新闻",
+    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "哈尔滨影视",
     "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild",
     "valid": true,
@@ -6858,14 +6864,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "海南少儿",
-    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=sepd",
+    "channel": "哈尔滨生活",
+    "url": "http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "哈尔滨生活",
-    "url": "http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild",
+    "channel": "海南少儿",
+    "url": "http://nn.7x9d.cn/地方台8563/海南.php?id=sepd",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -6882,14 +6888,14 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "青神综合",
-    "url": "http://lmt.scqstv.com:80/live1/live1.m3u8",
-    "valid": false,
-    "message": "连接超时"
-  },
-  {
     "channel": "黑龙江公共农村",
     "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225994/index.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
+    "channel": "七台河民生社教",
+    "url": "http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -6898,6 +6904,12 @@
     "url": "http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8",
     "valid": true,
     "message": "状态码: 200"
+  },
+  {
+    "channel": "山西经济与科技",
+    "url": "http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true",
+    "valid": false,
+    "message": "状态码: 403"
   },
   {
     "channel": "黄河电视台",
@@ -6912,32 +6924,14 @@
     "message": "状态码: 403"
   },
   {
-    "channel": "山西影视",
-    "url": "http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "七台河民生社教",
-    "url": "http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "山西经济与科技",
-    "url": "http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
     "channel": "山西文体生活",
     "url": "http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true",
     "valid": false,
     "message": "状态码: 403"
   },
   {
-    "channel": "宁夏公共",
-    "url": "https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8",
+    "channel": "山西影视",
+    "url": "http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -6948,8 +6942,32 @@
     "message": "状态码: 403"
   },
   {
+    "channel": "宁夏公共",
+    "url": "https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
     "channel": "宁夏文旅",
     "url": "https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "甘肃文化影视",
+    "url": "https://hls.gstv.com.cn/49048r/w1l6d5.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "甘肃都市",
+    "url": "https://hls.gstv.com.cn/49048r/l54391.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "甘肃公共应急",
+    "url": "https://hls.gstv.com.cn/49048r/3t5xyc.m3u8",
     "valid": false,
     "message": "状态码: 403"
   },
@@ -6958,12 +6976,6 @@
     "url": "https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8",
     "valid": false,
     "message": "连接错误"
-  },
-  {
-    "channel": "赣州新闻综合",
-    "url": "http://play-live-hls.jxtvcn.com.cn/live/tv_ganzhou.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
   },
   {
     "channel": "赣州公共",
@@ -6978,26 +6990,26 @@
     "message": "连接错误"
   },
   {
-    "channel": "1983年春晚",
-    "url": "http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "甘肃经济",
     "url": "https://hls.gstv.com.cn/49048r/10iv1j.m3u8",
     "valid": false,
     "message": "状态码: 403"
   },
   {
-    "channel": "甘肃公共应急",
-    "url": "https://hls.gstv.com.cn/49048r/3t5xyc.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
     "channel": "1985年春晚",
     "url": "http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "1986年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "1983年春晚",
+    "url": "http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -7023,23 +7035,29 @@
     "channel": "1984年春晚",
     "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8",
     "valid": false,
-    "message": "连接超时"
+    "message": "状态码: 404"
   },
   {
-    "channel": "1993年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "1986年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8",
+    "channel": "1992年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8",
     "valid": false,
     "message": "状态码: 404"
   },
   {
+    "channel": "赣州新闻综合",
+    "url": "http://play-live-hls.jxtvcn.com.cn/live/tv_ganzhou.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
     "channel": "1994年春晚",
     "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "1996年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -7050,34 +7068,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "1992年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "1996年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4",
+    "channel": "1993年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4",
     "valid": true,
     "message": "状态码: 200"
-  },
-  {
-    "channel": "1997年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "2000年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "1998年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
   },
   {
     "channel": "2001年春晚",
@@ -7086,14 +7080,8 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "2002年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "2003年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4",
+    "channel": "2000年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -7104,14 +7092,44 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "2005年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4",
+    "channel": "2003年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4",
     "valid": true,
     "message": "状态码: 200"
   },
   {
     "channel": "2004年春晚",
     "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "2002年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "1998年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "1997年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "2005年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "2009年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -7128,74 +7146,8 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "2009年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "2011年春晚",
     "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "2010年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "甘肃文化影视",
-    "url": "https://hls.gstv.com.cn/49048r/w1l6d5.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "2008年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "2013年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "2014年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "2016年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "2015年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "2017年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
-    "channel": "2018年春晚",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "2021年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -7206,8 +7158,68 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "2008年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "2015年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "2014年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "2013年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "2010年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "2018年春晚",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "2020年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "2016年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "2021年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
     "channel": "2023年春晚",
     "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "2017年春晚",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8",
     "valid": false,
     "message": "状态码: 404"
   },
@@ -7218,34 +7230,28 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "2020年春晚",
-    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "BBC",
     "url": "http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
     "valid": false,
     "message": "状态码: 403"
   },
   {
-    "channel": "CNA",
-    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "2024年春晚",
-    "url": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "CNN",
+    "url": "https://jmp2.uk/sam-GBBD8000016N.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
   },
   {
     "channel": "Fox LiveNow",
     "url": "https://jmp2.uk/sam-USBA300024TN.m3u8",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "CNA",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "CBC News",
@@ -7260,32 +7266,14 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "2025年春晚",
-    "url": "https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "NHK World",
-    "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CNN",
-    "url": "https://jmp2.uk/sam-GBBD8000016N.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "WionNews",
     "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
   {
-    "channel": "Al Jazeera",
-    "url": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "channel": "NHK World",
+    "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
@@ -7296,16 +7284,28 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "Al Jazeera",
+    "url": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "Sky News",
     "url": "https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8",
     "valid": false,
     "message": "状态码: 404"
   },
   {
-    "channel": "2025年春晚 4K",
-    "url": "https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8",
+    "channel": "Arirang",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "日本全天新闻",
+    "url": "https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8",
     "valid": false,
-    "message": "状态码: 403"
+    "message": "连接错误"
   },
   {
     "channel": "TRT World",
@@ -7314,26 +7314,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "AXS TV Now",
-    "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
-    "valid": false,
-    "message": "状态码: 502"
-  },
-  {
     "channel": "Bloomberg Asia",
     "url": "https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "Fashion TV",
-    "url": "http://91.247.68.229:8000/play/Fashion/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "Trace Sports",
-    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -7344,14 +7326,38 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "日本全天新闻",
-    "url": "https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8",
+    "channel": "AXS TV Now",
+    "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
+    "valid": false,
+    "message": "状态码: 502"
+  },
+  {
+    "channel": "Fashion TV",
+    "url": "http://91.247.68.229:8000/play/Fashion/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "Arirang",
-    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8",
+    "channel": "2024年春晚",
+    "url": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "2025年春晚",
+    "url": "https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "2025年春晚 4K",
+    "url": "https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8",
+    "valid": false,
+    "message": "状态码: 403"
+  },
+  {
+    "channel": "Trace Sports",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -7362,20 +7368,8 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "RT Arabic（阿语）",
-    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
     "channel": "RT Español（西语）",
     "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
-  },
-  {
-    "channel": "RT Français（法语）",
-    "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -7386,16 +7380,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "甘肃都市",
-    "url": "https://hls.gstv.com.cn/49048r/l54391.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "KBS world",
-    "url": "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
-    "valid": false,
-    "message": "状态码: 400"
+    "channel": "RT Français（法语）",
+    "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
   },
   {
     "channel": "RT Documentary（英语纪录）",
@@ -7404,8 +7392,26 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "RT Doc-Русский（俄语纪录）",
-    "url": "https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8",
+    "channel": "RT Arabic（阿语）",
+    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
+    "channel": "FIFA+",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8",
+    "valid": false,
+    "message": "状态码: 404"
+  },
+  {
+    "channel": "KBS world",
+    "url": "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
+    "valid": false,
+    "message": "状态码: 400"
+  },
+  {
+    "channel": "RT Balkan （塞尔维亚语）",
+    "url": "https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8",
     "valid": true,
     "message": "状态码: 200"
   },
@@ -7416,10 +7422,10 @@
     "message": "状态码: 200"
   },
   {
-    "channel": "RT Balkan （塞尔维亚语）",
-    "url": "https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8",
-    "valid": true,
-    "message": "状态码: 200"
+    "channel": "CBN News",
+    "url": "https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8",
+    "valid": false,
+    "message": "状态码: 503"
   },
   {
     "channel": "Dubai One",
@@ -7428,32 +7434,8 @@
     "message": "连接错误"
   },
   {
-    "channel": "FIFA+",
-    "url": "https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8",
-    "valid": false,
-    "message": "状态码: 404"
-  },
-  {
     "channel": "TBS",
     "url": "http://143.244.60.30/TBS/index.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "CBN News",
-    "url": "https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8",
-    "valid": false,
-    "message": "状态码: 403"
-  },
-  {
-    "channel": "Love Nature",
-    "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8",
-    "valid": false,
-    "message": "连接错误"
-  },
-  {
-    "channel": "Disney International",
-    "url": "http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284",
     "valid": false,
     "message": "连接错误"
   },
@@ -7470,10 +7452,22 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "Love Nature",
+    "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8",
+    "valid": false,
+    "message": "连接错误"
+  },
+  {
     "channel": "ION",
     "url": "https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8",
     "valid": false,
     "message": "状态码: 404"
+  },
+  {
+    "channel": "Disney International",
+    "url": "http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284",
+    "valid": false,
+    "message": "连接错误"
   },
   {
     "channel": "Wild Earth",
@@ -7500,6 +7494,12 @@
     "message": "状态码: 404"
   },
   {
+    "channel": "RT Doc-Русский（俄语纪录）",
+    "url": "https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8",
+    "valid": true,
+    "message": "状态码: 200"
+  },
+  {
     "channel": "Tastemade",
     "url": "https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8",
     "valid": false,
@@ -7510,12 +7510,6 @@
     "url": "https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8",
     "valid": false,
     "message": "状态码: 404"
-  },
-  {
-    "channel": "SKY",
-    "url": "http://streamsy.online:2999/coachj88/N93DPKS9pJ/330",
-    "valid": false,
-    "message": "连接超时"
   },
   {
     "channel": "The Lego Channel",
@@ -7530,14 +7524,20 @@
     "message": "状态码: 404"
   },
   {
-    "channel": "Fight Network",
-    "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
+    "channel": "SKY",
+    "url": "http://streamsy.online:2999/coachj88/N93DPKS9pJ/330",
     "valid": false,
     "message": "连接超时"
   },
   {
     "channel": "&Flix HD",
     "url": "http://89.187.177.137:8081/&FLIX/index.m3u8",
+    "valid": false,
+    "message": "连接超时"
+  },
+  {
+    "channel": "Fight Network",
+    "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
     "valid": false,
     "message": "连接超时"
   },
@@ -7716,14 +7716,14 @@
     "message": "连接错误"
   },
   {
-    "channel": "CETV-3",
-    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8",
+    "channel": "甘肃卫视",
+    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
   {
-    "channel": "甘肃卫视",
-    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8",
+    "channel": "CETV-3",
+    "url": "http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8",
     "valid": false,
     "message": "连接错误"
   },
